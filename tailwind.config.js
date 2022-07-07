@@ -1,0 +1,18 @@
+module.exports = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
+  ],
+  theme: {
+    colors: {
+      transparent: 'transparent',
+      'white': '#ffffff',
+      'black': '#000000',
+      'gray1': '#0e0e10',
+      'gray2': '#333333',
+      'purple': '#845ef7',
+    },
+    extend: {},
+  },
+  plugins: [],
+}
