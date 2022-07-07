@@ -15,7 +15,7 @@ function classNames(...classes) {
 
 export default function Navbar({current_page}) {
     return (
-      <div className="flex bg-gray1 w-full items-center justify-center border-b border-gray2">
+      <div className="hidden md:flex bg-gray1 w-full items-center justify-center border-b border-gray2">
         <div className="flex gap-x-4 uppercase h-[72px]">
           {navigation.map((item) => (
             <Link key={item.slug} href={item.slug} passHref>
