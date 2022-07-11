@@ -1,0 +1,120 @@
+[
+    {
+      "date": "4 Oct",
+      "activities": [
+        {
+          "title": "Intro to Elixir",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "10 am",
+          "end": "11 am",
+          "speakers": 
+            [
+                {
+                    "name": "Filipe Felício",
+                    "role": "Software Developer @ Marmelasoft",
+                    "photo": "felicio.png"
+                }
+            ],
+          "location": "CP2-B1",
+          "emoji": "🧙‍♂️"
+        },
+        {
+          "title": "Talk Javascript",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "11 am",
+          "end": "12 am",
+          "speakers": 
+            [
+                {
+                    "name": "David Machado",
+                    "role": "President @ NECC",
+                    "photo": "david.png"
+                }
+            ],
+          "location": "CP2-B1"
+        },
+        {
+          "title": "Emacs vs Vim",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "11 am",
+          "end": "12 am",
+          "speakers": 
+            [
+                {
+                    "name": "Matilde Bravo",
+                    "role": "Open Source Department @ CeSIUM",
+                    "photo": "matilde.png"
+                },
+                {
+                    "name": "Henrique Pereira",
+                    "role": "Pedagogical Department @ CeSIUM"
+                }
+            ],
+          "location": "CP2-B1"
+        }
+      ]
+    },
+    {
+      "date": "5 Oct",
+      "activities": [
+        {
+          "title": "Shell Basics",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "10 am",
+          "end": "11 am",
+          "speakers": 
+            [
+                {
+                    "name": "Matilde Bravo",
+                    "role": "Open Source Department @ CeSIUM",
+                    "photo": "matilde.png"
+                }
+            ],
+          "location": "CP2-B1",
+          "emoji": "⌨️"
+        }
+      ]
+    },
+    {
+      "date": "6 Oct",
+      "activities": [
+        {
+          "title": "Linux Installation Party",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "10 am",
+          "end": "11 am",
+          "location": "CP2-B1",
+          "emoji": "🐧"
+        },
+        {
+          "title": "Torneio Xadrez",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "6 pm",
+          "end": "7 pm",
+          "location": "Remote",
+          "emoji": "♟️"
+        }
+      ]
+    },
+    {
+      "date": "7 Oct",
+      "activities": [
+        {
+          "title": "Linux Installation Party",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "10 am",
+          "end": "11 am",
+          "location": "CP2-B1",
+          "emoji": "🐧"
+        },
+        {
+          "title": "Geek night",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+          "start": "7 pm",
+          "end": "8 pm",
+          "location": "Tosga Bar",
+          "emoji": "🍻"
+        }
+      ]
+    }
+]

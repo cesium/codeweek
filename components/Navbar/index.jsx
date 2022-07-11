@@ -18,7 +18,7 @@ export default function Navbar({current_page}) {
       <div className="hidden md:flex bg-gray1 w-full items-center justify-center border-b border-gray2">
         <div className="flex gap-x-4 uppercase h-[72px]">
           {navigation.map((item) => (
-            <Link key={item.slug} href={item.slug} passHref>
+            <Link key={item.slug} href={item.slug}>
                 <a
                   key={item.name}
                   href={item.slug}
@@ -28,7 +28,6 @@ export default function Navbar({current_page}) {
                       : 'border-transparent text-white text-opacity-50 hover:text-opacity-100',
                     'whitespace-nowrap py-7 px-1 border-b text-sm font-bold'
                   )}
-                  passHref
                 >
                 {item.name}
               </a>                
