@@ -15,7 +15,10 @@ function classNames(...classes) {
 
 export default function Navbar({current_page}) {
     return (
-      <div className="hidden md:flex bg-gray1 w-full items-center justify-center border-b border-gray2">
+      <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
+        <div>
+          Logo
+        </div>
         <div className="flex gap-x-4 uppercase h-[72px]">
           {navigation.map((item) => (
             <Link key={item.slug} href={item.slug}>
@@ -34,6 +37,14 @@ export default function Navbar({current_page}) {
             </Link>
           ))
           }
+        </div>
+        <div className="flex gap-x-2 lg:gap-x-4 mr-10">
+          <Link href="https://cesium.di.uminho.pt/">
+            <img class="w-[80px] cursor-pointer opacity-70 hover:opacity-100" src="/images/logos/cesium.svg" />
+          </Link>
+          <Link href="https://necc.di.uminho.pt/">
+            <img class="w-[80px] cursor-pointer opacity-70 hover:opacity-100" src="/images/logos/necc.svg" />
+          </Link>
         </div>
       </div>
     );
