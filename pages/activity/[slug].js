@@ -7,6 +7,7 @@ import Navbar from '/components/Navbar'
 import DefaultPhoto from '/components/DefaultPhoto'
 
 import schedule from '/data/schedule.json'
+import speakers from '/data/speakers.json'
 
 export default function Activity() {
 
@@ -28,8 +29,6 @@ export default function Activity() {
       setActivity(day.activities[slug])
     }
   }, [day.activities])
-
-  console.log(day)
 
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
@@ -73,7 +72,7 @@ export default function Activity() {
             {activity.description}
           </p>
           <p className="text-white text-2xl mt-4 font-bold"> 
-            Speakers  
+            { activity.speakers && "Speakers"}  
           </p>
           <div className="mt-4 grid grid-cols-2 gap-2">
             { activity.speakers && activity.speakers.map((speaker) => (
@@ -86,17 +85,19 @@ export default function Activity() {
                       <DefaultPhoto name={speaker.name}/>
                     }
                   </div>
-                  <div className="flex-1 min-w-0">
-                    <div className="focus:outline-none">
-                      <span className="absolute inset-0" aria-hidden="true" />
-                      <p className="text-sm font-medium text-white opacity-75">
-                        {speaker.name}
-                      </p>
-                      <p className="text-sm text-gray3 opacity-70 truncate">
-                        {speaker.role}
-                      </p>
+                  <Link href={`/speaker/${speakers.findIndex(s => s.name == speaker.name)}`} >
+                    <div className="flex-1 min-w-0">
+                      <div className="focus:outline-none">
+                        <span className="absolute inset-0" aria-hidden="true" />
+                        <p className="text-sm font-medium text-white opacity-75">
+                          {speaker.name}
+                        </p>
+                        <p className="text-sm text-gray3 opacity-70 truncate">
+                          {speaker.role}
+                        </p>
+                      </div>
                     </div>
-                  </div>
+                  </Link>
                 </div>
               </div>
             ))}
