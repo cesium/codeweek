@@ -3,9 +3,7 @@ import Link from 'next/link'
 const navigation = [
   { name: "Schedule", slug: "/schedule" },
   { name: "Speakers", slug: "/speakers" },
-  { name: "Hackathon", slug: "/hackathon" },
   { name: "Team", slug: "/team" },
-  { name: "Challenges", slug: "/challenges" },
   { name: "FAQs", slug: "/faqs" },
 ];
 
