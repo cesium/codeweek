@@ -13,7 +13,7 @@ export default function Speakers(){
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar current_page="Speakers" />
+      <Navbar current_page="Speakers" >
 
       <main className="flex w-full flex-1 flex-col bg-black my-auto">
         
@@ -50,6 +50,8 @@ export default function Speakers(){
         </div>
 
       </main>
+      </Navbar>
+
 
 
     </div>

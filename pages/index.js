@@ -10,7 +10,7 @@ function Home(){
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar />
+      <Navbar>
 
       <main className="flex w-full flex-1 flex-col items-center justify-center text-center bg-black my-auto px-[400px]">
         <p className="text-white text-8xl font-extrabold">
@@ -28,6 +28,10 @@ function Home(){
           </p> 
         </div>
       </main>
+
+      </Navbar>
+
+
     </div>
   )
 }
