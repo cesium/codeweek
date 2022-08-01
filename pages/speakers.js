@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-
+import Image from 'next/image'
 import Navbar from '/components/Navbar'
 
 import speakers from '/data/speakers.json'
@@ -31,7 +31,7 @@ export default function Speakers(){
           <Link href={`/speaker/${i}`} >
             <div class="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
               <div class="aspect-w-3 aspect-h-2">
-                <img class="object-cover shadow-lg rounded-t-lg w-full" src={`/images/speakers/${speaker.photo}`} />
+                <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={500} height={500} />
               </div>
 
               <div className="space-y-2 px-4 pb-8">

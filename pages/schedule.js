@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-
+import Image from 'next/image'
 import Navbar from '/components/Navbar'
 import DefaultPhoto from '/components/DefaultPhoto'
 
@@ -61,8 +61,10 @@ export default function Schedule(){
                               {activity.speakers.map((speaker) => (
                                   <div className="flex-shrink-0">
                                     { speaker.photo &&
-                                      <img className="h-10 w-10 rounded-full" src={`/images/speakers/${speaker.photo}`} />
-                                      ||
+                                    <div style={{borderRadius: '50px', overflow: 'hidden'}}>
+                                      <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={50} height={50} layout="fixed"/>
+                                    </div>                                      
+                                    ||
                                       <DefaultPhoto name={speaker.name}/>
                                     }
                                   </div>
@@ -73,7 +75,9 @@ export default function Schedule(){
                                   <div className="flex items-center space-x-3 mt-4">
                                     <div className="flex-shrink-0">
                                       { speaker.photo &&
-                                        <img className="h-10 w-10 rounded-full" src={`/images/speakers/${speaker.photo}`} />
+                                        <div style={{borderRadius: '50px', overflow: 'hidden'}}>
+                                          <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={50} height={50} layout="fixed"/>
+                                        </div>                                       
                                         ||
                                         <DefaultPhoto name={speaker.name}/>
                                       }
@@ -98,8 +102,10 @@ export default function Schedule(){
                           <div className="flex items-center space-x-3 mt-4">
                             <div className="flex-shrink-0">
                               { speaker.photo &&
-                                <img className="h-10 w-10 rounded-full" src={`/images/speakers/${speaker.photo}`} />
-                                ||
+                                <div style={{borderRadius: '50px', overflow: 'hidden'}}>
+                                <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={50} height={50} layout="fixed"/>
+                                </div>
+                                     ||
                                 <DefaultPhoto name={speaker.name}/>
                               }
                             </div>
