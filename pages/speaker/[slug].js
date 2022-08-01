@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+import Image from "next/image";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 
@@ -46,7 +46,7 @@ export default function Speaker() {
         <div className="mt-10 px-20 flex flex-col xl:flex-row xl:items-center">
           
           <div className="flex-none">
-            <img className="h-80 w-80 md:h-[300px] md:w-[300px] rounded-lg" src={`/images/speakers/${speaker.photo}`} />
+            <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={500} height={500} />
           </div>
 
           <div className="mt-10 xl:mt-0 xl:ml-10">
