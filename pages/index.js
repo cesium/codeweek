@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
       <Head>
-        <title>Create Next App</title>
+        <title>Codeweek</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
