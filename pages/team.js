@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-
+import Image from 'next/image'
 import Navbar from '/components/Navbar'
 
 import team from '/data/team.json'
@@ -33,7 +33,7 @@ export default function Team(){
                 <div class="aspect-w-3 aspect-h-2">
                   <img class="hidden absolute inset-0 top-2 left-2 z-40 w-12 sm:w-20 group-hover:block" src={`/images/logos/${member.organization}.svg`} />
                   <div class="absolute inset-0 z-40 bg-gradient-to-b from-transparent opacity-40 transition duration-200 ease-in group-hover:translate-y-20 via-purple to-purple group-hover:rounded-t-[50px]" />
-                  <img class="w-full" src={`/images/team/${member.photo}`} />
+                  <Image src={`/images/team/${member.photo}`} alt={member.name} width={500} height={500} />
                   <p class="hidden absolute inset-x-0 bottom-4 z-40 text-sm font-medium text-center text-white sm:bottom-4 sm:text-lg sm:font-bold md:text-xl group-hover:block">
                     {member.name}
                   </p>
