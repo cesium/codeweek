@@ -25,7 +25,7 @@ export default function Navbar({current_page, children}) {
         <>
           <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
             <div className="text-white">
-              Logo
+              <a href="/" className="text-white no-underline">Logo</a>
             </div>
             <div className="flex gap-x-4 uppercase h-[72px]">
               {navigation.map((item) => (
