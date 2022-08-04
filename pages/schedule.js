@@ -34,7 +34,7 @@ export default function Schedule(){
                 {day.date}
               </p>
             </div>
-            <div className="px-10 overflow-x-scroll flex gap-4 pb-4 sm:pb-0 sm:py-4">
+            <div className="px-10 overflow-x-auto flex gap-4 pb-4 sm:pb-0 sm:py-4">
               {day.activities.map((activity, i1) => (
                 <div className="flex flex-col"> 
                   <div className="text-gray3 text-md"> 
