@@ -67,7 +67,7 @@ export default function Activity() {
             <div className="my-4 grid lg:grid-cols-2 gap-2">
               {activity.speakers &&
                 activity.speakers.map((speaker) => (
-                  <div className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white">
+                  <div className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white" key={speaker}>
                     <div className="flex items-center space-x-3 rounded-sm border-gray3">
                       <div className="flex-shrink-0">
                         {(speaker.photo && (

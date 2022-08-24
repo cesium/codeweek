@@ -28,9 +28,9 @@ export default function Speakers(){
 
         <div className="px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
         {speakers.map((speaker, i) => (
-          <Link href={`/speaker/${i}`} >
-            <div class="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
-              <div class="aspect-w-3 aspect-h-2">
+          <Link href={`/speaker/${i}`} key={speaker}>
+            <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
+              <div className="aspect-w-3 aspect-h-2">
                 <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={500} height={500} />
               </div>
               <div className="space-y-2 px-4 pb-8">

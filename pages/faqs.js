@@ -28,7 +28,7 @@ export default function FAQs(){
 
         <div className="px-10 grid gap-4 mb-4">
           {faqs.map((faq) => (
-            <details className="py-6 space-y-4 cursor-pointer relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
+            <details className="py-6 space-y-4 cursor-pointer relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple" key={faq}>
               <summary className="text-white font-semibold mx-4">
                 {faq.question}
               </summary>
