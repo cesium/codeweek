@@ -28,7 +28,7 @@ export default function Schedule(){
         </div>
 
         {schedule.map((day, i0) => (
-          <div className="sm:flex border-t border-gray2 sm:py-4">
+          <div className="sm:flex border-t border-gray2 sm:py-4" key={day}>
             <div className="px-10 py-4 sm:py-0 sm:p-10 flex-shrink-0 sm:mr-4">
               <p className="text-purple text-4xl font-extrabold">
                 {day.date}
@@ -36,7 +36,7 @@ export default function Schedule(){
             </div>
             <div className="px-10 overflow-x-auto flex gap-4 pb-4 sm:pb-0 sm:py-4">
               {day.activities.map((activity, i1) => (
-                <div className="flex flex-col"> 
+                <div className="flex flex-col" key={activity}> 
                   <div className="text-gray3 text-md"> 
                      {activity.start} - {activity.end}
                   </div> 
@@ -59,7 +59,7 @@ export default function Schedule(){
                             <>        
                             <div className="flex group-hover:hidden items-center -space-x-5 mt-4">
                               {activity.speakers.map((speaker) => (
-                                  <div className="flex-shrink-0">
+                                  <div className="flex-shrink-0" key={speaker}>
                                     { speaker.photo &&
                                     <div className="rounded-3xl overflow-hidden">
                                       <Image src={`/images/speakers/${speaker.photo}`} alt={speaker.name} width={50} height={50} layout="fixed"/>
@@ -72,7 +72,7 @@ export default function Schedule(){
                             </div>
                             <div className="hidden group-hover:block items-center mt-4">
                                 {activity.speakers.map((speaker) => (
-                                  <div className="flex items-center space-x-3 mt-4">
+                                  <div className="flex items-center space-x-3 mt-4" key={speaker}>
                                     <div className="flex-shrink-0">
                                       { speaker.photo &&
                                         <div className="rounded-3xl overflow-hidden">
@@ -99,7 +99,7 @@ export default function Schedule(){
                             </>
                         ||
                         activity.speakers.map((speaker) => (
-                          <div className="flex items-center space-x-3 mt-4">
+                          <div className="flex items-center space-x-3 mt-4" key={speaker}>
                             <div className="flex-shrink-0">
                               { speaker.photo &&
                                 <div className="rounded-3xl overflow-hidden">

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
@@ -27,7 +28,7 @@ export default function Activity() {
     if (day.activities) {
       setActivity(day.activities[slug]);
     }
-  }, [day.activities]);
+  }, [day.activities, slug]);
 
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
@@ -67,13 +68,14 @@ export default function Activity() {
             <div className="my-4 grid lg:grid-cols-2 gap-2">
               {activity.speakers &&
                 activity.speakers.map((speaker) => (
-                  <div className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white">
+                  <div className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white" key={speaker}>
                     <div className="flex items-center space-x-3 rounded-sm border-gray3">
                       <div className="flex-shrink-0">
                         {(speaker.photo && (
-                          <img
+                          <Image
                             className="h-10 w-10 rounded-full"
                             src={`/images/speakers/${speaker.photo}`}
+                            alt={speaker.name}
                           />
                         )) || <DefaultPhoto name={speaker.name} />}
                       </div>

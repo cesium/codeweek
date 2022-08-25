@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Link from 'next/link'
 import Image from 'next/image'
 import Navbar from '/components/Navbar'
 
@@ -28,13 +27,14 @@ export default function Team(){
 
           <div className="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
           {team.map(member => (
-            <div>
-              <div class="space-y-4 group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm overflow-hidden">
-                <div class="aspect-w-3 aspect-h-2">
-                  <img class="hidden absolute inset-0 top-2 left-2 z-40 w-12 sm:w-20 group-hover:block" src={`/images/logos/${member.organization}.svg`} />
-                  <div class="absolute inset-0 z-40 bg-gradient-to-b from-transparent opacity-40 transition duration-200 ease-in group-hover:translate-y-20 via-purple to-purple group-hover:rounded-t-[50px]" />
+            <div key={member}>
+              <div className="space-y-4 group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm overflow-hidden">
+                <div className="aspect-w-3 aspect-h-2">
+                  {/* eslint-disable @next/next/no-img-element */}
+                  <img className="hidden absolute inset-0 top-2 left-2 z-40 w-12 sm:w-20 group-hover:block" src={`/images/logos/${member.organization}.svg`} alt={member.organization} />
+                  <div className="absolute inset-0 z-40 bg-gradient-to-b from-transparent opacity-40 transition duration-200 ease-in group-hover:translate-y-20 via-purple to-purple group-hover:rounded-t-[50px]" />
                   <Image src={`/images/team/${member.photo}`} alt={member.name} width={500} height={500} />
-                  <p class="hidden absolute inset-x-0 bottom-4 z-40 text-sm font-medium text-center text-white sm:bottom-4 sm:text-lg sm:font-bold md:text-xl group-hover:block">
+                  <p className="hidden absolute inset-x-0 bottom-4 z-40 text-sm font-medium text-center text-white sm:bottom-4 sm:text-lg sm:font-bold md:text-xl group-hover:block">
                     {member.name}
                   </p>
                 </div>

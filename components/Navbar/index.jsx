@@ -25,7 +25,7 @@ export default function Navbar({current_page, children}) {
         <>
           <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
             <div className="text-white">
-              <a href="/" className="text-white no-underline">Logo</a>
+              <Link href="/" className="text-white no-underline">Logo</Link>
             </div>
             <div className="flex gap-x-4 uppercase h-[72px]">
               {navigation.map((item) => (
@@ -48,10 +48,12 @@ export default function Navbar({current_page, children}) {
             </div>
             <div className="flex gap-x-2 lg:gap-x-4 mr-10">
               <Link href="https://cesium.di.uminho.pt/">
-                <img class="w-[80px] cursor-pointer opacity-70 hover:opacity-100" src="/images/logos/cesium.svg" />
+                {/* eslint-disable @next/next/no-img-element */}
+                <img className="w-[80px] cursor-pointer opacity-70 hover:opacity-100" src="/images/logos/cesium.svg" alt="" />
               </Link>
               <Link href="https://necc.di.uminho.pt/">
-                <img class="w-[80px] cursor-pointer opacity-70 hover:opacity-100" src="/images/logos/necc.svg" />
+                {/* eslint-disable @next/next/no-img-element */}
+                <img className="w-[80px] cursor-pointer opacity-70 hover:opacity-100" src="/images/logos/necc.svg" alt="" />
               </Link>
             </div>
           </div>
