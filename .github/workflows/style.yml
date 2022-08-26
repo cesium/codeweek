@@ -32,7 +32,7 @@ jobs:
         run: npm ci
 
       - name: Check code formating
-        run: npm run format
+        run: npm run test:format
 
       - name: Lint the code
-        run: npm run lint
+        run: npm run test:lint
