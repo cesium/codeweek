@@ -22,12 +22,19 @@ export default function Navbar({ current_page, children }) {
       {({ open }) => (
         <>
           <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
-            <div className="text-white">
-              <Link href="/" className="text-white no-underline">
-                Logo
-              </Link>
-            </div>
-            <div className="flex gap-x-4 uppercase h-[72px]">
+            <Link href="/">
+              <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
+                <img
+                  className="w-[60px] h-[60px] pt-2"
+                  src="/images/logos/cw-white.svg"
+                  alt=""
+                />
+                <a className="text-white text-md font-semibold sm:text-lg sm:font-bold px-1 py-5">
+                  Code Week
+                </a>
+              </div>
+            </Link>
+            <div className="flex gap-x-4 uppercase h-[72px] mx-auto">
               {navigation.map((item) => (
                 <Link key={item.slug} href={item.slug}>
                   <a
@@ -64,8 +71,16 @@ export default function Navbar({ current_page, children }) {
               </Link>
             </div>
           </div>
-          <div className="relative z-50 flex lg:hidden h-[72px] bg-gray1 w-full items-center justify-between border-b border-gray2">
-            <div className="text-white">Logo</div>
+          <div className="relative z-50 flex row lg:hidden h-[72px] bg-gray1 w-full items-center justify-between border-b border-gray2">
+            <Link href="/">
+              <div className="ml-7 cursor-pointer opacity-70 hover:opacity-100">
+                <img
+                  className="w-[50px] h-[50px] justify-center"
+                  src="/images/logos/cw-white.svg"
+                  alt=""
+                />
+              </div>
+            </Link>
             <Disclosure.Button className="inline-flex h-6 w-6 mr-10 items-center justify-center text-white">
               {open ? (
                 <FontAwesomeIcon
