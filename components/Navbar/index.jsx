@@ -22,12 +22,20 @@ export default function Navbar({ current_page, children }) {
       {({ open }) => (
         <>
           <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
-            <div className="text-white">
-              <Link href="/" className="text-white no-underline">
-                Logo
-              </Link>
-            </div>
-            <div className="flex gap-x-4 uppercase h-[72px]">
+            <Link href="/">
+              <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
+                {/* eslint-disable @next/next/no-img-element */}
+                <img
+                  className="w-[60px] h-[60px] pt-2"
+                  src="/images/logos/cw-white.svg"
+                  alt=""
+                />
+                <a className="text-white text-md font-semibold sm:text-lg sm:font-bold px-1 py-5">
+                  Code Week
+                </a>
+              </div>
+            </Link>
+            <div className="flex gap-x-4 uppercase h-[72px] mx-auto">
               {navigation.map((item) => (
                 <Link key={item.slug} href={item.slug}>
                   <a
