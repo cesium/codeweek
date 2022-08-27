@@ -25,11 +25,13 @@ export default function Navbar({ current_page, children }) {
             <Link href="/">
               <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
                 <img
-                className="w-[60px] h-[60px] pt-2"
-                src="/images/logos/cw-white.svg"
-                alt=""
+                  className="w-[60px] h-[60px] pt-2"
+                  src="/images/logos/cw-white.svg"
+                  alt=""
                 />
-                <a className="text-white text-md font-semibold sm:text-lg sm:font-bold px-1 py-5">Code Week</a>
+                <a className="text-white text-md font-semibold sm:text-lg sm:font-bold px-1 py-5">
+                  Code Week
+                </a>
               </div>
             </Link>
             <div className="flex gap-x-4 uppercase h-[72px] mx-auto">
@@ -70,12 +72,12 @@ export default function Navbar({ current_page, children }) {
             </div>
           </div>
           <div className="relative z-50 flex row lg:hidden h-[72px] bg-gray1 w-full items-center justify-between border-b border-gray2">
-          <Link href="/">
+            <Link href="/">
               <div className="ml-7 cursor-pointer opacity-70 hover:opacity-100">
                 <img
-                className="w-[50px] h-[50px] justify-center"
-                src="/images/logos/cw-white.svg"
-                alt=""
+                  className="w-[50px] h-[50px] justify-center"
+                  src="/images/logos/cw-white.svg"
+                  alt=""
                 />
               </div>
             </Link>
