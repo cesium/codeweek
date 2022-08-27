@@ -75,7 +75,8 @@ export default function Activity() {
                     <div className="flex items-center space-x-3 rounded-sm border-gray3">
                       <div className="flex-shrink-0">
                         {(speaker.photo && (
-                          <Image
+                          /* eslint-disable @next/next/no-img-element */
+                          <img
                             className="h-10 w-10 rounded-full"
                             src={`/images/speakers/${speaker.photo}`}
                             alt={speaker.name}

@@ -118,7 +118,7 @@ export default function Schedule() {
                               >
                                 <div className="flex-shrink-0">
                                   {(speaker.photo && (
-                                    <div className="rounded-3xl overflow-hidden">
+                                    <div className="rounded-full overflow-hidden">
                                       <Image
                                         src={`/images/speakers/${speaker.photo}`}
                                         alt={speaker.name}
