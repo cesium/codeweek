@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
@@ -69,13 +68,14 @@ export default function Activity() {
               {activity.speakers &&
                 activity.speakers.map((speaker) => (
                   <div
-                    className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white"
+                    className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-purple"
                     key={speaker}
                   >
                     <div className="flex items-center space-x-3 rounded-sm border-gray3">
                       <div className="flex-shrink-0">
                         {(speaker.photo && (
-                          <Image
+                          /* eslint-disable @next/next/no-img-element */
+                          <img
                             className="h-10 w-10 rounded-full"
                             src={`/images/speakers/${speaker.photo}`}
                             alt={speaker.name}

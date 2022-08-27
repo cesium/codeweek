@@ -26,7 +26,7 @@ export default function Team() {
           <div className="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {team.map((member) => (
               <div key={member}>
-                <div className="space-y-4 group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm overflow-hidden">
+                <div className="space-y-4 group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm overflow-hidden hover:border-purple">
                   <div className="aspect-w-3 aspect-h-2">
                     {/* eslint-disable @next/next/no-img-element */}
                     <img

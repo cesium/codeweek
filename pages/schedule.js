@@ -41,7 +41,7 @@ export default function Schedule() {
                   </div>
                   <>
                     <Link href={`/activity/${i1}?day_id=${i0}`}>
-                      <div className="cursor-pointer group w-80 mt-2 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white">
+                      <div className="cursor-pointer group w-80 mt-2 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-purple">
                         <div className="flex justify-between items-center">
                           <p className="text-white text-xl font-bold">
                             {activity.title}
@@ -58,15 +58,12 @@ export default function Schedule() {
                                 {activity.speakers.map((speaker) => (
                                   <div className="flex-shrink-0" key={speaker}>
                                     {(speaker.photo && (
-                                      <div className="rounded-3xl overflow-hidden">
-                                        <Image
-                                          src={`/images/speakers/${speaker.photo}`}
-                                          alt={speaker.name}
-                                          width={50}
-                                          height={50}
-                                          layout="fixed"
-                                        />
-                                      </div>
+                                      /* eslint-disable @next/next/no-img-element */
+                                      <img
+                                        className="h-10 w-10 rounded-full"
+                                        src={`/images/speakers/${speaker.photo}`}
+                                        alt={speaker.name}
+                                      />
                                     )) || <DefaultPhoto name={speaker.name} />}
                                   </div>
                                 ))}
@@ -79,15 +76,12 @@ export default function Schedule() {
                                   >
                                     <div className="flex-shrink-0">
                                       {(speaker.photo && (
-                                        <div className="rounded-3xl overflow-hidden">
-                                          <Image
-                                            src={`/images/speakers/${speaker.photo}`}
-                                            alt={speaker.name}
-                                            width={50}
-                                            height={50}
-                                            layout="fixed"
-                                          />
-                                        </div>
+                                        /* eslint-disable @next/next/no-img-element */
+                                        <img
+                                          className="h-10 w-10 rounded-full"
+                                          src={`/images/speakers/${speaker.photo}`}
+                                          alt={speaker.name}
+                                        />
                                       )) || (
                                         <DefaultPhoto name={speaker.name} />
                                       )}
@@ -118,15 +112,12 @@ export default function Schedule() {
                               >
                                 <div className="flex-shrink-0">
                                   {(speaker.photo && (
-                                    <div className="rounded-3xl overflow-hidden">
-                                      <Image
-                                        src={`/images/speakers/${speaker.photo}`}
-                                        alt={speaker.name}
-                                        width={50}
-                                        height={50}
-                                        layout="fixed"
-                                      />
-                                    </div>
+                                    /* eslint-disable @next/next/no-img-element */
+                                    <img
+                                      className="h-10 w-10 rounded-full"
+                                      src={`/images/speakers/${speaker.photo}`}
+                                      alt={speaker.name}
+                                    />
                                   )) || <DefaultPhoto name={speaker.name} />}
                                 </div>
                                 <div className="flex-1 min-w-0">
