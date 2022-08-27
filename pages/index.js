@@ -17,10 +17,10 @@ function Home() {
               EU Code Week 2022 @ University of Minho
             </p>
             <div className="grid grid-cols-2 divide-x divide-white mt-20">
-              <p className="text-purple text-lg sm:text-2xl self-center p-4 justify-self-end">
+              <p className="text-purple text-lg sm:text-2xl self-center p-4 justify-self-center">
                 October 4 - 10, 2022
               </p>
-              <p className="text-purple text-lg sm:text-2xl self-center p-4 justify-self-start">
+              <p className="text-purple text-lg sm:text-2xl self-center p-4 justify-self-center">
                 Building 7, Gualtar Campus
               </p>
             </div>

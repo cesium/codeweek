@@ -24,6 +24,7 @@ export default function Navbar({ current_page, children }) {
           <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
             <Link href="/">
               <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
+                {/* eslint-disable @next/next/no-img-element */}
                 <img
                   className="w-[60px] h-[60px] pt-2"
                   src="/images/logos/cw-white.svg"
