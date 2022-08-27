@@ -41,7 +41,7 @@ export default function Schedule() {
                   </div>
                   <>
                     <Link href={`/activity/${i1}?day_id=${i0}`}>
-                      <div className="cursor-pointer group w-80 mt-2 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-white">
+                      <div className="cursor-pointer group w-80 mt-2 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-purple">
                         <div className="flex justify-between items-center">
                           <p className="text-white text-xl font-bold">
                             {activity.title}
