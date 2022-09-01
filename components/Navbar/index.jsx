@@ -6,10 +6,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 
 const navigation = [
-  { name: "Schedule", slug: "/schedule" },
+  /*{ name: "Schedule", slug: "/schedule" },
   { name: "Speakers", slug: "/speakers" },
   { name: "Team", slug: "/team" },
-  { name: "FAQs", slug: "/faqs" },
+  { name: "FAQs", slug: "/faqs" },*/
 ];
 
 function classNames(...classes) {
