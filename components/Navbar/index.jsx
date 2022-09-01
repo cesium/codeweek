@@ -21,7 +21,7 @@ export default function Navbar({ current_page, children }) {
     <Disclosure>
       {({ open }) => (
         <>
-          <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
+          <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2 z-10">
             <Link href="/">
               <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
                 {/* eslint-disable @next/next/no-img-element */}
