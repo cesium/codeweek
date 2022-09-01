@@ -6,9 +6,9 @@
 
 [![Style][style-status]][style-workflow]
 
-*Learning to code helps us to make sense of the rapidly changing world around
+_Learning to code helps us to make sense of the rapidly changing world around
 us, expand our understanding of how technology works, and develop skills and
-capabilities in order to explore new ideas and innovate.* 
+capabilities in order to explore new ideas and innovate._
 
 Code Week at [University of Minho][uminho] is an initiative, organized by [CeSIUM][cesium] and [NECC][necc], which aims to bring coding and digital literacy to everybody in a fun and engaging way.
 
