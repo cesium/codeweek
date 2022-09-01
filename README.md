@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <a href="https://codeweek.cesium.di.uminho.pt">
+        <img src="public/images/logos/codeweek-full.png">
+    </a>
+</h1>
 
-## Getting Started
+[![Style][style-status]][style-workflow]
 
-First, run the development server:
+*Learning to code helps us to make sense of the rapidly changing world around
+us, expand our understanding of how technology works, and develop skills and
+capabilities in order to explore new ideas and innovate.* 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Code Week at [University of Minho][uminho] is an initiative, organized by [CeSIUM][cesium] and [NECC][necc], which aims to bring coding and digital literacy to everybody in a fun and engaging way.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🤝 Contributing
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+When contributing to this repository, please first discuss the change you wish
+to make via discussions, issue, email, or any other method with the owners of
+this repository before making a change.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Please note we have a [Code of Conduct][code_of_conduct], please follow it
+in all your interactions with the project.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+We have a [Contributing Guide][contributing] to help you getting started.
 
-## Learn More
+## 📝 License
 
-To learn more about Next.js, take a look at the following resources:
+<img src=".github/brand/cesium-DARK.svg#gh-light-mode-only" width="300">
+<img src=".github/brand/cesium-LIGHT.svg#gh-dark-mode-only" width="300">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Copyright (c) 2022, CeSIUM.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project is licensed under the MIT License - see the [LICENSE][license]
+file for details.
 
-## Deploy on Vercel
+[style-status]: https://github.com/cesium/codeweek/actions/workflows/style.yml/badge.svg
+[style-workflow]: https://github.com/cesium/codeweek/actions/workflows/style.yml/badge.svg
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[uminho]: https://www.uminho.pt
+[cesium]: https://cesium.di.uminho.pt
+[necc]: https://necc.di.uminho.pt
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[code_of_conduct]: CODE_OF_CONDUCT.md
+[contributing]: CONTRIBUTING.md
+[license]: LICENSE.txt
