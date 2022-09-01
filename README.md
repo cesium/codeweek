@@ -35,11 +35,9 @@ file for details.
 
 [style-status]: https://github.com/cesium/codeweek/actions/workflows/style.yml/badge.svg
 [style-workflow]: https://github.com/cesium/codeweek/actions/workflows/style.yml/badge.svg
-
 [uminho]: https://www.uminho.pt
 [cesium]: https://cesium.di.uminho.pt
 [necc]: https://necc.di.uminho.pt
-
 [code_of_conduct]: CODE_OF_CONDUCT.md
 [contributing]: CONTRIBUTING.md
 [license]: LICENSE.txt
