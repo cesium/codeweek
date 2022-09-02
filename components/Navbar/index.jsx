@@ -21,13 +21,13 @@ export default function Navbar({ current_page, children }) {
     <Disclosure>
       {({ open }) => (
         <>
-          <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2">
+          <div className="hidden lg:flex bg-gray1 w-full items-center justify-between border-b border-gray2 z-10">
             <Link href="/">
               <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
                 {/* eslint-disable @next/next/no-img-element */}
                 <img
                   className="w-[60px] h-[60px] pt-2"
-                  src="/images/logos/cw-white.svg"
+                  src="/images/logos/codeweek-icon-white.svg"
                   alt=""
                 />
                 <a className="text-white text-md font-semibold sm:text-lg sm:font-bold px-1 py-5">
@@ -77,7 +77,7 @@ export default function Navbar({ current_page, children }) {
               <div className="ml-7 cursor-pointer opacity-70 hover:opacity-100">
                 <img
                   className="w-[50px] h-[50px] justify-center"
-                  src="/images/logos/cw-white.svg"
+                  src="/images/logos/codeweek-icon-white.svg"
                   alt=""
                 />
               </div>

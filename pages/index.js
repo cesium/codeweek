@@ -12,6 +12,13 @@ function Home() {
 
       <Navbar>
         <main className="flex w-full flex-1 flex-col items-center justify-center text-center bg-black my-auto ">
+          <div className="space">
+            <div className="stars" />
+            <div className="stars" />
+            <div className="stars" />
+            <div className="stars" />
+            <div className="stars" />
+          </div>
           <div className="md:max-w-[700px] px-4">
             <p className="text-white text-5xl font-bold sm:text-6xl sm:font-extrabold">
               EU Code Week 2022 @ University of Minho
