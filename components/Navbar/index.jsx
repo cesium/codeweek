@@ -10,7 +10,7 @@ const navigation = [
   { name: "Speakers", slug: "/speakers" },
   { name: "Team", slug: "/team" },
   { name: "FAQs", slug: "/faqs" },
-  { name: "Last Edition", slug: "https://codeweek.cesium.di.uminho.pt/" },
+  { name: "Last Edition", slug: "https://2019.codeweek.cesium.di.uminho.pt/" },
 ];
 
 function classNames(...classes) {
