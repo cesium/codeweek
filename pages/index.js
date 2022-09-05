@@ -1,6 +1,7 @@
 import Head from "next/head";
 
 import Navbar from "/components/Navbar";
+import Footer from "/components/Footer";
 
 function Home() {
   return (
@@ -34,6 +35,7 @@ function Home() {
           </div>
         </main>
       </Navbar>
+      <Footer />
     </div>
   );
 }

@@ -1,6 +1,7 @@
 import Head from "next/head";
 
 import Navbar from "/components/Navbar";
+import Footer from "/components/Footer";
 
 import faqs from "/data/faqs.json";
 
@@ -36,6 +37,7 @@ export default function FAQs() {
           ))}
         </div>
       </main>
+      <Footer />
     </div>
   );
 }

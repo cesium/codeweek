@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Navbar from "/components/Navbar";
+import Footer from "/components/Footer";
 
 import team from "/data/team.json";
 
@@ -23,7 +24,7 @@ export default function Team() {
             </p>
           </div>
 
-          <div className="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2 mb-4">
             {team.map((member) => (
               <div key={member}>
                 <div className="space-y-4 group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm overflow-hidden hover:border-purple">
@@ -51,6 +52,7 @@ export default function Team() {
           </div>
         </main>
       </Navbar>
+      <Footer />
     </div>
   );
 }

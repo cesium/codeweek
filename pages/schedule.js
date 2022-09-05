@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
-import Image from "next/image";
 import Navbar from "/components/Navbar";
+import Footer from "/components/Footer";
 import DefaultPhoto from "/components/DefaultPhoto";
 
 import schedule from "/data/schedule.json";
@@ -29,7 +29,7 @@ export default function Schedule() {
         </div>
 
         {schedule.map((day, i0) => (
-          <div className="sm:flex border-t border-gray2 sm:py-4" key={day}>
+          <div className="sm:flex border-t border-gray2 sm:py-4 mb-4" key={day}>
             <div className="px-10 py-4 sm:py-0 sm:p-10 flex-shrink-0 sm:mr-4">
               <p className="text-purple text-4xl font-extrabold">{day.date}</p>
             </div>
@@ -145,6 +145,7 @@ export default function Schedule() {
           </div>
         ))}
       </main>
+      <Footer />
     </div>
   );
 }

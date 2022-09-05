@@ -2,6 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import Navbar from "/components/Navbar";
+import Footer from "/components/Footer";
 
 import speakers from "/data/speakers.json";
 
@@ -26,7 +27,7 @@ export default function Speakers() {
             </p>
           </div>
 
-          <div className="px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2 mb-4">
             {speakers.map((speaker, i) => (
               <Link href={`/speaker/${i}`} key={speaker}>
                 <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
@@ -53,6 +54,7 @@ export default function Speakers() {
           </div>
         </main>
       </Navbar>
+      <Footer />
     </div>
   );
 }
