@@ -8,8 +8,8 @@ export default function Team() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Team</title>
+        <link rel="icon" href="/cw-favicon.ico" />
       </Head>
 
       <Navbar current_page="Team">
