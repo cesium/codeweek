@@ -22,9 +22,9 @@ export default function Schedule() {
             Schedule
           </p>
           <p className="text-gray3 text-md mt-4">
-            This is an open source demo that Next.js developers can clone,
-            deploy, and fully customize for events. Created through
-            collaboration of marketers, designers, and developers at Vercel.
+            4 amazing days bringing code to the world. We don&apos;t want to
+            risk anyone getting a segmentation fault, so refresh your memory
+            with this:
           </p>
         </div>
 

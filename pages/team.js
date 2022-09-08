@@ -17,9 +17,9 @@ export default function Team() {
           <div className="px-10 mb-10">
             <p className="text-white text-[40px] mt-14 font-extrabold">Team</p>
             <p className="text-gray3 text-md mt-4">
-              This is an open source demo that Next.js developers can clone,
-              deploy, and fully customize for events. Created through
-              collaboration of marketers, designers, and developers at Vercel.
+              CeSIUM and NECC joined forces and became almost as strong as a
+              semicolon in C. Look at us: hard working people, code enthusiasts,
+              just like you!
             </p>
           </div>
 
