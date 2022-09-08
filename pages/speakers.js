@@ -20,9 +20,9 @@ export default function Speakers() {
               Speakers
             </p>
             <p className="text-gray3 text-md mt-4">
-              This is an open source demo that Next.js developers can clone,
-              deploy, and fully customize for events. Created through
-              collaboration of marketers, designers, and developers at Vercel.
+              They never forget to close their brackets, and they are here to
+              tell you more things than StackOverflow could ever tell. Check who
+              are our amazing speakers:
             </p>
           </div>
 
