@@ -1,50 +1,25 @@
 [
   {
-    "date": "4 Oct",
+    "date": "17 Oct",
     "activities": [
       {
-        "title": "Intro to Elixir",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "10 am",
-        "end": "11 am",
-        "speakers": [
-          {
-            "name": "Filipe Felício",
-            "role": "Software Developer @ Marmelasoft",
-            "photo": "felicio.png"
-          }
-        ],
+        "title": "Sessão de Estudo",
+        "description": "Sessão de estudo de Haskell, vêm esclarecer dúvidas e aprender mais sobre a linguagem.",
+        "start": "4 pm",
+        "end": "6 pm",
         "location": "CP2-B1",
         "emoji": "🧙‍♂️"
       },
       {
-        "title": "Talk Javascript",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+        "title": "Palestra de Git",
+        "description": "Palestra sobre Git, vêm aprender a usar o Git.",
         "start": "11 am",
         "end": "12 am",
         "speakers": [
           {
-            "name": "David Machado",
-            "role": "President @ NECC",
-            "photo": "david.png"
-          }
-        ],
-        "location": "CP2-B1"
-      },
-      {
-        "title": "Emacs vs Vim",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "11 am",
-        "end": "12 am",
-        "speakers": [
-          {
-            "name": "Matilde Bravo",
-            "role": "Open Source Department @ CeSIUM",
-            "photo": "matilde.png"
-          },
-          {
-            "name": "Henrique Pereira",
-            "role": "Pedagogical Department @ CeSIUM"
+            "name": "Nélson Estevão",
+            "role": "Founder & CEO @Marmeloblade",
+            "photo": "nelson.png"
           }
         ],
         "location": "CP2-B1"
@@ -52,64 +27,137 @@
     ]
   },
   {
-    "date": "5 Oct",
+    "date": "18 Oct",
     "activities": [
       {
-        "title": "Shell Basics",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "10 am",
-        "end": "11 am",
+        "title": "Palestra Web Development",
+        "description": "Palestra sobre Web Development, vêm aprender a desenvolver aplicações web.",
+        "start": "3 pm",
+        "end": "5 pm",
         "speakers": [
           {
-            "name": "Matilde Bravo",
-            "role": "Open Source Department @ CeSIUM",
-            "photo": "matilde.png"
+            "name": "David Machado",
+            "role": "Presidente @Necc",
+            "photo": "david.png"
           }
         ],
         "location": "CP2-B1",
         "emoji": "⌨️"
-      }
-    ]
-  },
-  {
-    "date": "6 Oct",
-    "activities": [
-      {
-        "title": "Linux Installation Party",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "10 am",
-        "end": "11 am",
-        "location": "CP2-B1",
-        "emoji": "🐧"
       },
       {
         "title": "Torneio Xadrez",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "6 pm",
-        "end": "7 pm",
+        "start": "10 pm",
+        "end": "0 am",
         "location": "Remote",
         "emoji": "♟️"
       }
     ]
   },
   {
-    "date": "7 Oct",
+    "date": "19 Oct",
     "activities": [
       {
-        "title": "Linux Installation Party",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "10 am",
-        "end": "11 am",
+        "title": "Talk JNO",
+        "start": "3 pm",
+        "end": "4 pm",
+        "speakers": [
+          {
+            "name": "JNO",
+            "role": "Professor Catedrático CP",
+            "photo": "jno.png"
+          }
+        ],
         "location": "CP2-B1",
-        "emoji": "🐧"
+        "emoji": "🧙‍♂️"
       },
       {
-        "title": "Geek night",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "7 pm",
-        "end": "8 pm",
-        "location": "Tosga Bar",
-        "emoji": "🍻"
+        "title": "Shell Basics",
+        "description": "Vêm aprender os básicos de Shell Scripting.",
+        "start": "4 pm",
+        "end": "5 pm",
+        "speakers": [
+          {
+            "name": "Matilde Bravo",
+            "role": "Vogal @CeSIUM",
+            "photo": "matilde.png"
+          }
+        ],
+        "location": "CP1",
+        "emoji": "⌨️"
+      },
+      {
+        "title": "Coffee Break",
+        "description": "Vêm tomar um café, conviver e conhecer novas pessoas.",
+        "start": "5 pm",
+        "end": "5:30 pm",
+        "location": "CP1",
+        "emoji": "☕"
+      },
+      {
+        "title": "Tertúlia",
+        "description": "",
+        "start": "5 pm",
+        "end": "5:30 pm",
+        "speakers": [
+        ],
+        "location": "CP1",
+        "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "date": "20 Oct",
+    "activities": [
+      {
+        "title": "Sessão de Estudo",
+        "description": "Sessão de estudo de Haskell, vêm esclarecer dúvidas e aprender mais sobre a linguagem.",
+        "start": "2 pm",
+        "end": "4 pm",
+        "location": "CP2-B1",
+        "emoji": "🧙‍♂️"
+      },
+      {
+        "title": "Why Elixir?",
+        "description": "Palestra sobre Elixir, vêm aprender porque deves usar Elixir.",
+        "start": "4 pm",
+        "end": "5 pm",
+        "speakers": [
+          {
+            "name": "Filipe Felício",
+            "role": "Software Engineer",
+            "photo": "felicio.png"
+          }
+        ],
+        "location": "CP2-B1",
+        "emoji": "⌨️"
+      },
+      {
+        "title": "Coffee Break",
+        "description": "Vêm tomar um café, conviver e conhecer novas pessoas.",
+        "start": "5 pm",
+        "end": "5:30 pm",
+        "location": "CP1",
+        "emoji": "☕"
+      },
+      {
+        "title": "Linux ShowCase",
+        "description": "Conhece projetos antigos e novos do mundo Linux.",
+        "start": "5:30 pm",
+        "end": "6:30 pm",
+        "speakers":[
+
+        ],
+        "location": "CP1",
+        "emoji": "⌨️"
+      },
+      {
+        "title":"Geek Night",
+        "description":"",
+        "start": "10 pm",
+        "end": "0 am",
+        "location": "",
+        "emoji": "🧙‍♂️"
       }
     ]
   }
