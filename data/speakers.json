@@ -1,8 +1,10 @@
 [
   {
     "name": "Filipe Felício",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-    "role": "Software Developer @ Marmelasoft",
+    "bio": "Started programming five years ago.
+Used to spend all day writing code in CeSIUM, still do from time to time.
+Elixir enthusiast, working at Marmelasoft. Proud owner of a |> tattoo.",
+    "role": "Software Engineer @ Marmelasoft",
     "facebook": "filipe.felicio.18",
     "instagram": "felicio.filipe",
     "linkedin": "feliciofilipe",
@@ -31,5 +33,12 @@
     "name": "Henrique Pereira",
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
     "role": "Pedagogical Department @ CeSIUM"
+  },
+  {
+    "name": "Rui Oliveira",
+    "bio": "tbd",
+    "role": "Director of Caos Department @ CeSIUM",
+    "github": "ruioliveira02",
+    "photo": "rui_oliveira.png"
   }
 ]
