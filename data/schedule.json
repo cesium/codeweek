@@ -99,8 +99,7 @@
         "description": "",
         "start": "5 pm",
         "end": "5:30 pm",
-        "speakers": [
-        ],
+        "speakers": [],
         "location": "CP1",
         "emoji": "☕"
       }
@@ -145,15 +144,13 @@
         "description": "Conhece projetos antigos e novos do mundo Linux.",
         "start": "5:30 pm",
         "end": "6:30 pm",
-        "speakers":[
-
-        ],
+        "speakers": [],
         "location": "CP1",
         "emoji": "⌨️"
       },
       {
-        "title":"Geek Night",
-        "description":"",
+        "title": "Geek Night",
+        "description": "",
         "start": "10 pm",
         "end": "0 am",
         "location": "",
