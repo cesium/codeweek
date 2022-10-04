@@ -14,15 +14,15 @@ Elixir enthusiast, working at Marmelasoft. Proud owner of a |> tattoo.",
   },
   {
     "name": "David Machado",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+    "bio": "Full-stack developer, started my coding journey when I was sixteen. As a vocational highschool graduation project I built a CSS framework. I am currently studying Computer Science in University of Minho.",
     "role": "President @ NECC",
-    "github": "feliciofilipe",
-    "twitter": "filipejfelicio",
-    "photo": "david.png"
+    "github": "quantik-git",
+    "instagram": "quantik.insta",
+    "photo": "david.jpeg"
   },
   {
     "name": "Matilde Bravo",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+    "bio": "",
     "role": "Open Source Department @ CeSIUM",
     "facebook": "filipe.felicio.18",
     "instagram": "felicio.filipe",
@@ -30,15 +30,55 @@ Elixir enthusiast, working at Marmelasoft. Proud owner of a |> tattoo.",
     "photo": "matilde.png"
   },
   {
-    "name": "Henrique Pereira",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-    "role": "Pedagogical Department @ CeSIUM"
-  },
-  {
     "name": "Rui Oliveira",
-    "bio": "tbd",
+    "bio": "",
     "role": "Director of Caos Department @ CeSIUM",
     "github": "ruioliveira02",
     "photo": "rui_oliveira.png"
-  }
+  },
+  {
+    "name": "Rui Lopes",
+    "bio": "",
+    "github": "ruil1904",
+    "role": "Codirector of Caos Department @ CeSIUM",
+    "photo": "rui_lopes.png"
+  },
+  {
+    "name": "José Nuno Oliveira",
+    "bio": "Software technology is pre-scientific in its lack of an effective basis for predicting computers' behaviour. My research aims at improving scientific standards in software design through formal methods and calculational techniques. These include the application of mathematical transforms in refactoring and improving existing software theories. I do this with passion and firmly believe this will make computing better in the future.",
+    "website": "https://www.di.uminho.pt/~jno/",
+    "role": "Teacher @ Computer Science Department",
+    "photo": "jno.png"
+  },
+  {
+    "name": "Tinoco",
+    "bio": "",
+    "github": "",
+    "role": "",
+    "photo": ""
+  },
+  {
+    "name": "Francisco Neves",
+    "bio": "",
+    "github": "",
+    "role": "",
+    "photo": ""
+  },
+  {
+    "name": "Nelson Estevão",
+    "bio": "",
+    "website": "https://estevao.org/",
+    "github": "nelsonmestevao",
+    "role": "Teacher @ Universidade do Minho",
+    "photo": "nelson.jpeg"
+  },
+  {
+    "name": "Catarina Machado",
+    "bio": "",
+    "website": "https://catarinamachado.github.io/",
+    "github": "catarinamachado",
+    "role": "Ex-President @ CeSIUM
+Teacher @ Universidade do Minho",
+    "photo": "catarina_machado.png"
+  },
 ]
