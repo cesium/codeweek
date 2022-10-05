@@ -9,7 +9,7 @@ Despite that, If I really had to elect one, I would choose Elixir.
 Elixir is a functional, concurrent, general-purpose programming language that runs on the BEAM, created in 2012 and its has been the backbone of CeSIUM's software stack and its been used to write and re-write almost all of its software products.
 In this talk, we will dive into the main reasons for it, whence the name, "Why Elixir?".",
         "start": "4 pm",
-        "end": "4:30 am",
+        "end": "5 pm",
         "speakers": [
           {
             "name": "Filipe Felício",
@@ -17,15 +17,15 @@ In this talk, we will dive into the main reasons for it, whence the name, "Why E
             "photo": "felicio.png"
           }
         ],
-        "location": "CP2-B1",
+        "location": "tbd",
         "emoji": "🧙‍♂️"
       },
 	{
-	    "date": "",
+	    "date": "18 Oct",
         "title": "Talk Javascript",
-          "description": "Let me take you on a jorney of demystifying Javascript, it's not as hard as you might think!",
+          "description": "This is a jorney in order to demystify Javascript, it's not as hard as you might think!",
         "start": "3 pm",
-        "end": "16:30 pm",
+        "end": "5 pm",
         "speakers": [
           {
             "name": "David Machado",
@@ -43,7 +43,7 @@ In this talk, we will dive into the main reasons for it, whence the name, "Why E
         "title": "Shell Basics",
         "description": "Every programer is aware that the most powerful tool we have at our dispose is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
         "start": "4 pm",
-        "end": "4:30 pm",
+        "end": "5 pm",
         "speakers": [
           {
             "name": "Matilde Bravo",
@@ -75,7 +75,7 @@ Let's take a break from all the programing nonsense and focus on some real think
         "title": "Linux Showcase",
         "description": "Have you heard of Linux? If not, this is the place for you. If you've heard about it, this is also the place for you. This showcase aims to show you everything about the world of Linux. From its creation to all the families and distributions that are out there. This is general culture, at least that's what we think!",
         "start": "17:30 pm",
-        "end": "18 pm",
+        "end": "18:30 pm",
         "speakers": [
           {
             "name": "Rui Lopes",
@@ -93,7 +93,7 @@ Let's take a break from all the programing nonsense and focus on some real think
         "title": "Git Good",
         "description": "In almost every group project, the most used program, in order to version control the entire project, is git. This talk will show the workflow of git and all it's glory, so that you can git good!",
         "start": "6 pm",
-        "end": "6:30 pm",
+        "end": "7 pm",
         "speakers": [
           {
             "name": "Rui Oliveira",
@@ -102,7 +102,7 @@ Let's take a break from all the programing nonsense and focus on some real think
           }
         ],
         "location": "tbd",
-        "emoji": ""
+        "emoji": "💻"
       }
     ]
 	},
@@ -177,7 +177,7 @@ Let's take a break from all the programing nonsense and focus on some real think
         "title": "Tertúlia",
         "description": "",
         "start": "6 pm",
-        "end": "6:30 pm",
+        "end": "7 pm",
         "speakers": [
           {
             "name": "",
@@ -196,7 +196,7 @@ Let's take a break from all the programing nonsense and focus on some real think
         "title": "JNO Talk",
         "description": "This talk will be given by a very prestigious teacher @ Universidade do Minho.",
         "start": "3 pm",
-        "end": "3:30 pm",
+        "end": "4 pm",
         "speakers": [
           {
             "name": "JNO",
@@ -204,7 +204,7 @@ Let's take a break from all the programing nonsense and focus on some real think
           }
         ],
         "location": "tbd",
-        "emoji": ""
+        "emoji": "👨‍🏫"
       }
     ]
 	},
