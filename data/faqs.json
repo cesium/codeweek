@@ -1,24 +1,18 @@
 [
   {
-    "title": "Is CodeWeek free?",
-    "href": "",
-    "link": "",
-    "description": "Yes! CodeWeek is completly free."
+    "question": "Is Code Week @ UMinho free?",
+    "answer": "Yes! It is completely free."
   },
   {
-    "title": "Where can I register to participate in CodeWeek'22?",
-    "href": "",
-    "link": "",
-    "description": ""
+    "question": "Do I need to register myself in order to attend the event?",
+    "answer": "No, to attend Code Week @ UMinho there's no need for any kind of registration."
   },
   {
-    "title": "I am not a student, can I attend the event?",
-    "href": "",
-    "description": "Yes! CodeWeek is open to all the community. Everyone can register and participate in our talks and activities."
+    "question": "I am not a student, can I attend the event?",
+    "answer": "Yes! Code Week @ UMinho is open to all the community. Everyone can participate in our talks and activities."
   },
   {
-    "title": "How can I contact the CodeWeek team?",
-    "href": "",
-    "description": "You can e-mail us to codeweekuminho@gmail.com or leave a message on our social media accounts."
+    "question": "How can I contact the Code Week @ UMinho team?",
+    "answer": "You can e-mail us to codeweekuminho@gmail.com or leave a message on our social media accounts."
   }
 ]
