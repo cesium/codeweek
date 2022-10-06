@@ -1,50 +1,129 @@
 [
   {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "name": "Sofia",
+    "role": "Presidente @ CeSIUM",
+    "photo": "sofia.jpg",
     "organization": "cesium"
   },
   {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
-    "organization": "cesium"
-  },
-  {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "name": "David Machado",
+    "role": "Presidente @ NECC",
+    "photo": "davidmachado.jpeg",
     "organization": "necc"
   },
   {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "name": "Gonçalo",
+    "role": "Vice-Presidente @ CeSIUM",
+    "photo": "goncalo.jpg",
     "organization": "cesium"
   },
   {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "name": "Simão Quintela",
+    "role": "",
+    "photo": "simaoquintela.jpg",
     "organization": "necc"
   },
   {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "name": "Alexandre",
+    "role": "",
+    "photo": "alexandre.jpg",
     "organization": "cesium"
   },
   {
-    "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "name": "Bruno Jardim",
+    "role": "Pedagógico @ NECC",
+    "photo": "brunojardim.jpg",
     "organization": "necc"
   },
   {
+    "name": "Bea",
+    "role": "Secretária @ CeSIUM",
+    "photo": "bea.jpg",
+    "organization":"cesium"
+  },
+  {
+    "name": "Miguel Freitas",
+    "role": "",
+    "photo": "miguelfreitas.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Vitor Lelis",
+    "role": "Tesoureiro @ CeSIUM",
+    "photo": "vitorlelis.jpg",
+    "organization":"cesium"
+  },
+  {
     "name": "Filipe Felício",
-    "role": "Software Developer @ Marmelasoft",
-    "photo": "filipe.png",
+    "role": "Conselho Fiscal @ CeSIUM",
+    "photo": "filipefelicio.png",
     "organization": "cesium"
+  },
+  {
+    "name": "Rui Oliveira",
+    "role": "CAOS @ CeSIUM",
+    "photo": "ruioliveira.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Henrique",
+    "role": "Pedagógico @ CeSIUM",
+    "photo": "henrique.jpg",
+    "organization":"cesium"
+  },
+  {
+    "name": "Gustavo",
+    "role": "DMC @ CeSIUM",
+    "photo":"gustavo.png",
+    "organization":"cesium"
+  },
+  {
+    "name":"Pedro Fernandes",
+    "role": "",
+    "photo":"pedrofernandes.jpg",
+    "organization":"necc"
+  },
+  {
+    "name":"Daniel",
+    "role":"Pedagógico @ CeSIUM",
+    "photo":"daniel.jpeg",
+    "organization":"cesium"
+  },
+  {
+    "name":"Pedro Sousa",
+    "role":"Pedagógico @ CeSIUM",
+    "photo":"pedrosousa.jpg",
+    "organization":"cesium"
+  },
+  {
+    "name": "Rui Lopes",
+    "role": "CAOS @ CeSIUM",
+    "photo": "ruilopes.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Mário Rodrigues",
+    "role": "CAOS @ CeSIUM",
+    "photo": "mario.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name":"Jéssica",
+    "role":"Champion @CoderDojoBraga",
+    "photo":"jessica.jpg",
+    "organization":"cesium"
+  },
+  {
+    "name":"Júlio",
+    "role":"DMC @CeSIUM",
+    "photo":"julio.jpg",
+    "organization":"cesium"
+  },
+  {
+    "name":"Leonardo",
+    "role":"Recreativo @ CeSIUM",
+    "photo":"leonardo.jpeg",
+    "organization":"cesium"
   }
+
 ]

@@ -3,26 +3,33 @@
     "date": "17 Oct",
     "activities": [
       {
-        "title": "Sessão de Estudo",
-        "description": "Sessão de estudo de Haskell, vêm esclarecer dúvidas e aprender mais sobre a linguagem.",
-        "start": "4 pm",
-        "end": "6 pm",
-        "location": "CP2-B1",
-        "emoji": "🧙‍♂️"
-      },
-      {
-        "title": "Palestra de Git",
-        "description": "Palestra sobre Git, vêm aprender a usar o Git.",
-        "start": "11 am",
-        "end": "12 am",
+        "title": "Study Session",
+        "description": "This time slot will be reserved to every student that wants to study and receive tutoring!",
+        "start": "16:00",
+        "end": "18:00",
         "speakers": [
           {
-            "name": "Nélson Estevão",
-            "role": "Founder & CEO @Marmeloblade",
-            "photo": "nelson.png"
+            "name": "NECC",
+            "photo": "necc.png"
           }
         ],
-        "location": "CP2-B1"
+        "location": "TBD",
+        "emoji": "📚"
+      },
+      {
+        "title": "Git Good",
+        "description": "In almost every group project, the most used program, in order to version control the entire project, is git. This talk will show the workflow of git and all it's glory, so that you can git good!",
+        "start": "18:00",
+        "end": "19:00",
+        "speakers": [
+          {
+            "name": "Rui Oliveira",
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "ruioliveira.jpg"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "💻"
       }
     ]
   },
@@ -30,25 +37,25 @@
     "date": "18 Oct",
     "activities": [
       {
-        "title": "Palestra Web Development",
-        "description": "Palestra sobre Web Development, vêm aprender a desenvolver aplicações web.",
-        "start": "3 pm",
-        "end": "5 pm",
+        "title": "JavaScript Talk",
+        "description": "This is a journey in order to demystify JavaScript, it's not as hard as you might think!",
+        "start": "15:00",
+        "end": "17:00",
         "speakers": [
           {
             "name": "David Machado",
-            "role": "Presidente @Necc",
-            "photo": "david.png"
+            "role": "President @ NECC",
+            "photo": "davidmachado.jpeg"
           }
         ],
-        "location": "CP2-B1",
-        "emoji": "⌨️"
+        "location": "TBD",
+        "emoji": "🗣️"
       },
       {
-        "title": "Torneio Xadrez",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-        "start": "10 pm",
-        "end": "0 am",
+        "title": "Chess Tournament",
+        "description": "This will be a remote chess tournament, so that everyone interested can join! Let's take a break from all the programming nonsense and focus on some real thinking.",
+        "start": "22:00",
+        "end": "23:30",
         "location": "Remote",
         "emoji": "♟️"
       }
@@ -58,50 +65,49 @@
     "date": "19 Oct",
     "activities": [
       {
-        "title": "Talk JNO",
-        "start": "3 pm",
-        "end": "4 pm",
+        "title": "JNO's Talk",
+        "description": "This talk will be given by a very prestigious teacher @ Universidade do Minho.",
+        "start": "15:00",
+        "end": "16:00",
         "speakers": [
           {
-            "name": "JNO",
-            "role": "Professor Catedrático CP",
+            "name": "José Nuno Oliveira",
             "photo": "jno.png"
           }
         ],
-        "location": "CP2-B1",
-        "emoji": "🧙‍♂️"
+        "location": "TBD",
+        "emoji": "👨‍🏫"
       },
       {
         "title": "Shell Basics",
-        "description": "Vêm aprender os básicos de Shell Scripting.",
-        "start": "4 pm",
-        "end": "5 pm",
+        "description": "Every programmer is aware that the most powerful tool we have at our dispose is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
+        "start": "16:00",
+        "end": "17:00",
         "speakers": [
           {
             "name": "Matilde Bravo",
-            "role": "Vogal @CeSIUM",
-            "photo": "matilde.png"
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "matildebravo.png"
           }
         ],
-        "location": "CP1",
-        "emoji": "⌨️"
+        "location": "TBD",
+        "emoji": "🐚"
       },
       {
         "title": "Coffee Break",
-        "description": "Vêm tomar um café, conviver e conhecer novas pessoas.",
-        "start": "5 pm",
-        "end": "5:30 pm",
-        "location": "CP1",
+        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
+        "start": "17:00",
+        "end": "17:30",
+        "location": "TBD",
         "emoji": "☕"
       },
       {
-        "title": "Tertúlia",
-        "description": "",
-        "start": "5 pm",
-        "end": "5:30 pm",
-        "speakers": [],
-        "location": "CP1",
-        "emoji": "☕"
+        "title": "How would my life be in the future?",
+        "description": "Have you ever wonder how would your life be in the future? That's crazy, right? We bring some people to tell you about their lives after graduating in Software Engineer here @ University of Minho.",
+        "start": "18:00",
+        "end": "19:00",
+        "location": "TBD",
+        "emoji": "🔮"
       }
     ]
   },
@@ -109,52 +115,58 @@
     "date": "20 Oct",
     "activities": [
       {
-        "title": "Sessão de Estudo",
-        "description": "Sessão de estudo de Haskell, vêm esclarecer dúvidas e aprender mais sobre a linguagem.",
-        "start": "2 pm",
-        "end": "4 pm",
-        "location": "CP2-B1",
-        "emoji": "🧙‍♂️"
+        "title": "Study Session",
+        "description": "This time slot will be reserved to every student that wants to study and receive tutoring.",
+        "start": "14:00",
+        "end": "16:00",
+        "location": "TBD",
+        "emoji": "📚"
       },
       {
         "title": "Why Elixir?",
-        "description": "Palestra sobre Elixir, vêm aprender porque deves usar Elixir.",
-        "start": "4 pm",
-        "end": "5 pm",
+        "description": "There is a simple and short answer to the question: \"What is the best programming language\", which is: \"It depends\". Despite that, If I really had to elect one, I would choose Elixir. Elixir is a functional, concurrent, general-purpose programming language that runs on the BEAM. Created in 2012, it has been the backbone of CeSIUM's software stack and its been used to write and re-write almost all of its software products. In this talk, we will dive into the main reasons for it, whence the name, \"Why Elixir?\".",
+        "start": "16:00",
+        "end": "17:00",
         "speakers": [
           {
             "name": "Filipe Felício",
-            "role": "Software Engineer",
-            "photo": "felicio.png"
+            "role": "Software Developer @ Marmelasoft",
+            "photo": "filipefelicio.png"
           }
         ],
-        "location": "CP2-B1",
-        "emoji": "⌨️"
+        "location": "TBD",
+        "emoji": "🧙‍♂️"
       },
       {
         "title": "Coffee Break",
-        "description": "Vêm tomar um café, conviver e conhecer novas pessoas.",
-        "start": "5 pm",
-        "end": "5:30 pm",
-        "location": "CP1",
+        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
+        "start": "17:00",
+        "end": "17:30",
+        "location": "TBD",
         "emoji": "☕"
       },
       {
-        "title": "Linux ShowCase",
-        "description": "Conhece projetos antigos e novos do mundo Linux.",
-        "start": "5:30 pm",
-        "end": "6:30 pm",
-        "speakers": [],
-        "location": "CP1",
-        "emoji": "⌨️"
+        "title": "Linux Showcase",
+        "description": "Have you heard of Linux? Whether yes or not, this is the place for you.This showcase aims to show you everything about the world of Linux. From its creation to all the families and distributions that are out there. This is general culture, at least that's what I think!",
+        "start": "18:00",
+        "end": "19:00",
+        "speakers": [
+          {
+            "name": "Rui Lopes",
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "ruilopes.png"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "🐧"
       },
       {
         "title": "Geek Night",
         "description": "",
-        "start": "10 pm",
-        "end": "0 am",
-        "location": "",
-        "emoji": "🧙‍♂️"
+        "start": "21:30",
+        "end": "23:30",
+        "location": "TBD",
+        "emoji": "🍻"
       }
     ]
   }

@@ -1,42 +1,68 @@
 [
   {
     "name": "Filipe Felício",
-    "bio": "Started programming five years ago. Used to spend all day writing code in CeSIUM, still do from time to time Elixir enthusiast, working at Marmelasoft. Proud owner of a |> tattoo.",
+    "bio": "Started programming five years ago. Used to spend all day writing code in CeSIUM, still do from time to time. Elixir enthusiast, working @ Marmelasoft. Proud owner of a |> tattoo.",
     "role": "Software Engineer @ Marmelasoft",
     "facebook": "filipe.felicio.18",
     "instagram": "felicio.filipe",
     "linkedin": "feliciofilipe",
     "github": "feliciofilipe",
     "twitter": "filipejfelicio",
-    "photo": "felicio.png"
+    "photo": "filipefelicio.png"
   },
   {
     "name": "David Machado",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+    "bio": "Full-stack developer, started his coding journey at sixteen. As a vocational highschool graduation project he built a CSS framework. Currently studying Computer Science @ University of Minho.",
     "role": "President @ NECC",
-    "github": "feliciofilipe",
-    "twitter": "filipejfelicio",
-    "photo": "david.png"
+    "github": "quantik-git",
+    "instagram": "quantik.insta",
+    "photo": "davidmachado.jpeg"
   },
   {
     "name": "Matilde Bravo",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
+    "bio": "",
     "role": "Open Source Department @ CeSIUM",
     "facebook": "filipe.felicio.18",
     "instagram": "felicio.filipe",
     "linkedin": "feliciofilipe",
-    "photo": "matilde.png"
-  },
-  {
-    "name": "Nélson Estevão",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-    "role": "Pedagogical Department @ CeSIUM"
+    "photo": "matildebravo.png"
   },
   {
     "name": "Rui Oliveira",
-    "bio": "tbd",
-    "role": "Director of Caos Department @ CeSIUM",
+    "bio": "",
+    "role": "Open Source Department @ CeSIUM",
     "github": "ruioliveira02",
-    "photo": "rui_oliveira.png"
+    "photo": "ruioliveira.jpg"
+  },
+  {
+    "name": "Rui Lopes",
+    "bio": "Started programming four years ago and since there never stopped. Loves Python and its starting to love Elixir too. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
+    "github": "ruil1904",
+    "linkedin": "rui-lopes-dev",
+    "role": "Open Source Department @ CeSIUM",
+    "photo": "ruilopes.png"
+  },
+  {
+    "name": "José Nuno Oliveira",
+    "bio": "Software technology is pre-scientific in its lack of an effective basis for predicting computers' behaviour. My research aims at improving scientific standards in software design through formal methods and calculational techniques. These include the application of mathematical transforms in refactoring and improving existing software theories. I do this with passion and firmly believe this will make computing better in the future.",
+    "website": "https://www.di.uminho.pt/~jno/",
+    "role": "Professor @ University of Minho",
+    "photo": "jno.png"
+  },
+  {
+    "name": "Nelson Estevão",
+    "bio": "",
+    "website": "https://estevao.org/",
+    "github": "nelsonmestevao",
+    "role": "Ex-President @ CeSIUM & Teacher @ University of Minho",
+    "photo": "nelsonestevao.jpeg"
+  },
+  {
+    "name": "Catarina Machado",
+    "bio": "",
+    "website": "https://catarinamachado.github.io/",
+    "github": "catarinamachado",
+    "role": "Ex-President @ CeSIUM & Teacher @ University of Minho",
+    "photo": "catarinamachado.png"
   }
 ]
