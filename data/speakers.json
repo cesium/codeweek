@@ -41,28 +41,5 @@
     "linkedin": "rui-lopes-dev",
     "role": "Open Source Department @ CeSIUM",
     "photo": "ruilopes.png"
-  },
-  {
-    "name": "José Nuno Oliveira",
-    "bio": "Software technology is pre-scientific in its lack of an effective basis for predicting computers' behaviour. My research aims at improving scientific standards in software design through formal methods and calculational techniques. These include the application of mathematical transforms in refactoring and improving existing software theories. I do this with passion and firmly believe this will make computing better in the future.",
-    "website": "https://www.di.uminho.pt/~jno/",
-    "role": "Professor @ University of Minho",
-    "photo": "jno.png"
-  },
-  {
-    "name": "Nelson Estevão",
-    "bio": "",
-    "website": "https://estevao.org/",
-    "github": "nelsonmestevao",
-    "role": "Ex-President @ CeSIUM & Teacher @ University of Minho",
-    "photo": "nelsonestevao.jpeg"
-  },
-  {
-    "name": "Catarina Machado",
-    "bio": "",
-    "website": "https://catarinamachado.github.io/",
-    "github": "catarinamachado",
-    "role": "Ex-President @ CeSIUM & Teacher @ University of Minho",
-    "photo": "catarinamachado.png"
   }
 ]

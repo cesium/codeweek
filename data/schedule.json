@@ -7,12 +7,6 @@
         "description": "This time slot will be reserved to every student that wants to study and receive tutoring!",
         "start": "16:00",
         "end": "18:00",
-        "speakers": [
-          {
-            "name": "NECC",
-            "photo": "necc.png"
-          }
-        ],
         "location": "TBD",
         "emoji": "📚"
       },
@@ -64,20 +58,6 @@
   {
     "date": "19 Oct",
     "activities": [
-      {
-        "title": "JNO's Talk",
-        "description": "This talk will be given by a very prestigious teacher @ Universidade do Minho.",
-        "start": "15:00",
-        "end": "16:00",
-        "speakers": [
-          {
-            "name": "José Nuno Oliveira",
-            "photo": "jno.png"
-          }
-        ],
-        "location": "TBD",
-        "emoji": "👨‍🏫"
-      },
       {
         "title": "Shell Basics",
         "description": "Every programmer is aware that the most powerful tool we have at our dispose is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",

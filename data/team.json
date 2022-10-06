@@ -1,129 +1,117 @@
 [
   {
-    "name": "Sofia",
-    "role": "Presidente @ CeSIUM",
-    "photo": "sofia.jpg",
+    "name": "Sofia Gomes",
+    "photo": "sofiagomes.jpg",
     "organization": "cesium"
   },
   {
     "name": "David Machado",
-    "role": "Presidente @ NECC",
     "photo": "davidmachado.jpeg",
     "organization": "necc"
   },
   {
-    "name": "Gonçalo",
-    "role": "Vice-Presidente @ CeSIUM",
-    "photo": "goncalo.jpg",
+    "name": "Gonçalo Rodrigues",
+    "photo": "goncalorodrigues.jpg",
     "organization": "cesium"
   },
   {
     "name": "Simão Quintela",
-    "role": "",
     "photo": "simaoquintela.jpg",
     "organization": "necc"
   },
   {
-    "name": "Alexandre",
-    "role": "",
-    "photo": "alexandre.jpg",
+    "name": "Ricardo Lucena",
+    "photo": "ricardolucena.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Alexandre Gomes",
+    "photo": "alexandregomes.jpg",
     "organization": "cesium"
   },
   {
     "name": "Bruno Jardim",
-    "role": "Pedagógico @ NECC",
     "photo": "brunojardim.jpg",
     "organization": "necc"
   },
   {
-    "name": "Bea",
-    "role": "Secretária @ CeSIUM",
-    "photo": "bea.jpg",
-    "organization":"cesium"
+    "name": "Beatriz Rodrigues",
+    "photo": "beatrizrodrigues.jpg",
+    "organization": "cesium"
   },
   {
     "name": "Miguel Freitas",
-    "role": "",
     "photo": "miguelfreitas.jpg",
     "organization": "necc"
   },
   {
     "name": "Vitor Lelis",
-    "role": "Tesoureiro @ CeSIUM",
     "photo": "vitorlelis.jpg",
-    "organization":"cesium"
+    "organization": "cesium"
   },
   {
     "name": "Filipe Felício",
-    "role": "Conselho Fiscal @ CeSIUM",
     "photo": "filipefelicio.png",
     "organization": "cesium"
   },
   {
     "name": "Rui Oliveira",
-    "role": "CAOS @ CeSIUM",
     "photo": "ruioliveira.jpeg",
     "organization": "cesium"
   },
   {
-    "name": "Henrique",
-    "role": "Pedagógico @ CeSIUM",
-    "photo": "henrique.jpg",
-    "organization":"cesium"
+    "name": "Henrique Pereira",
+    "photo": "henriquepereira.jpg",
+    "organization": "cesium"
   },
   {
-    "name": "Gustavo",
-    "role": "DMC @ CeSIUM",
-    "photo":"gustavo.png",
-    "organization":"cesium"
+    "name": "Gustavo Pereira",
+    "photo": "gustavopereira.png",
+    "organization": "cesium"
   },
   {
-    "name":"Pedro Fernandes",
-    "role": "",
-    "photo":"pedrofernandes.jpg",
-    "organization":"necc"
+    "name": "Pedro Fernandes",
+    "photo": "pedrofernandes.jpg",
+    "organization": "necc"
   },
   {
-    "name":"Daniel",
-    "role":"Pedagógico @ CeSIUM",
-    "photo":"daniel.jpeg",
-    "organization":"cesium"
+    "name": "Alexandre Neves",
+    "photo": "alexandreneves.jpg",
+    "organization": "cesium"
   },
   {
-    "name":"Pedro Sousa",
-    "role":"Pedagógico @ CeSIUM",
-    "photo":"pedrosousa.jpg",
-    "organization":"cesium"
+    "name": "Daniel Pereira",
+    "photo": "danielpereira.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Pedro Sousa",
+    "photo": "pedrosousa.jpg",
+    "organization": "cesium"
   },
   {
     "name": "Rui Lopes",
-    "role": "CAOS @ CeSIUM",
     "photo": "ruilopes.png",
     "organization": "cesium"
   },
   {
     "name": "Mário Rodrigues",
-    "role": "CAOS @ CeSIUM",
-    "photo": "mario.jpg",
+    "photo": "mariorodrigues.jpg",
     "organization": "cesium"
   },
   {
-    "name":"Jéssica",
-    "role":"Champion @CoderDojoBraga",
-    "photo":"jessica.jpg",
-    "organization":"cesium"
+    "name": "Jéssica Fernandes",
+    "photo": "jessicafernandes.jpg",
+    "organization": "cesium"
   },
   {
-    "name":"Júlio",
-    "role":"DMC @CeSIUM",
-    "photo":"julio.jpg",
-    "organization":"cesium"
+    "name": "Júlio Pinto",
+    "photo": "juliopinto.jpg",
+    "organization": "cesium"
   },
   {
-    "name":"Leonardo",
-    "role":"Recreativo @ CeSIUM",
-    "photo":"leonardo.jpeg",
-    "organization":"cesium"
+    "name": "Leonardo Freitas",
+    "photo": "leonardofreitas.jpeg",
+    "organization": "cesium"
   }
-
 ]
