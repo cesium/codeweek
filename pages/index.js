@@ -25,7 +25,7 @@ function Home() {
             </p>
             <div className="grid grid-cols-2 divide-x divide-white mt-20">
               <p className="text-purple text-lg sm:text-2xl self-center p-4 justify-self-center">
-                October 4 - 10, 2022
+                October 17 - 20, 2022
               </p>
               <p className="text-purple text-lg sm:text-2xl self-center p-4 justify-self-center">
                 Building 7, Gualtar Campus

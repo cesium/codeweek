@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import Navbar from "/components/Navbar";
 
 import team from "/data/team.json";
@@ -35,12 +34,16 @@ export default function Team() {
                       alt={member.organization}
                     />
                     <div className="absolute inset-0 z-40 bg-gradient-to-b from-transparent opacity-40 transition duration-200 ease-in group-hover:translate-y-20 via-purple to-purple group-hover:rounded-t-[50px]" />
-                    <Image
-                      src={`/images/team/${member.photo}`}
-                      alt={member.name}
-                      width={500}
-                      height={500}
-                    />
+                    <div className="relative overflow-hidden h-[220px]">
+                      {/* eslint-disable @next/next/no-img-element */}
+                      <img
+                        src={`/images/team/${member.photo}`}
+                        alt={member.name}
+                        className="relative w-[220px] overflow-y-hidden"
+                        height="220"
+                      />
+                    </div>
+
                     <p className="hidden absolute inset-x-0 bottom-4 z-40 text-sm font-medium text-center text-white sm:bottom-4 sm:text-lg sm:font-bold md:text-xl group-hover:block">
                       {member.name}
                     </p>
