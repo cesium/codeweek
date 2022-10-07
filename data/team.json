@@ -1,32 +1,17 @@
 [
   {
-    "name": "Sofia Gomes",
-    "photo": "sofiagomes.jpg",
-    "organization": "cesium"
-  },
-  {
-    "name": "David Machado",
-    "photo": "davidmachado.jpeg",
-    "organization": "necc"
-  },
-  {
-    "name": "Gonçalo Rodrigues",
-    "photo": "goncalorodrigues.jpg",
-    "organization": "cesium"
-  },
-  {
-    "name": "Simão Quintela",
-    "photo": "simaoquintela.jpg",
-    "organization": "necc"
-  },
-  {
-    "name": "Ricardo Lucena",
-    "photo": "ricardolucena.png",
-    "organization": "cesium"
-  },
-  {
     "name": "Alexandre Gomes",
     "photo": "alexandregomes.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Alexandre Neves",
+    "photo": "alexandreneves.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Beatriz Rodrigues",
+    "photo": "beatrizrodrigues.jpg",
     "organization": "cesium"
   },
   {
@@ -35,19 +20,14 @@
     "organization": "necc"
   },
   {
-    "name": "Beatriz Rodrigues",
-    "photo": "beatrizrodrigues.jpg",
+    "name": "Daniel Pereira",
+    "photo": "danielpereira.jpeg",
     "organization": "cesium"
   },
   {
-    "name": "Miguel Freitas",
-    "photo": "miguelfreitas.jpg",
+    "name": "David Machado",
+    "photo": "davidmachado.jpeg",
     "organization": "necc"
-  },
-  {
-    "name": "Vitor Lelis",
-    "photo": "vitorlelis.jpg",
-    "organization": "cesium"
   },
   {
     "name": "Filipe Felício",
@@ -55,13 +35,8 @@
     "organization": "cesium"
   },
   {
-    "name": "Rui Oliveira",
-    "photo": "ruioliveira.jpeg",
-    "organization": "cesium"
-  },
-  {
-    "name": "Henrique Pereira",
-    "photo": "henriquepereira.jpg",
+    "name": "Gonçalo Rodrigues",
+    "photo": "goncalorodrigues.jpg",
     "organization": "cesium"
   },
   {
@@ -70,34 +45,14 @@
     "organization": "cesium"
   },
   {
-    "name": "Pedro Fernandes",
-    "photo": "pedrofernandes.jpg",
+    "name": "Henrique Pereira",
+    "photo": "henriquepereira.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Inês Presa",
+    "photo": "inespresa.jpg",
     "organization": "necc"
-  },
-  {
-    "name": "Alexandre Neves",
-    "photo": "alexandreneves.jpg",
-    "organization": "cesium"
-  },
-  {
-    "name": "Daniel Pereira",
-    "photo": "danielpereira.jpeg",
-    "organization": "cesium"
-  },
-  {
-    "name": "Pedro Sousa",
-    "photo": "pedrosousa.jpg",
-    "organization": "cesium"
-  },
-  {
-    "name": "Rui Lopes",
-    "photo": "ruilopes.png",
-    "organization": "cesium"
-  },
-  {
-    "name": "Mário Rodrigues",
-    "photo": "mariorodrigues.jpg",
-    "organization": "cesium"
   },
   {
     "name": "Jéssica Fernandes",
@@ -112,6 +67,61 @@
   {
     "name": "Leonardo Freitas",
     "photo": "leonardofreitas.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Mário Rodrigues",
+    "photo": "mariorodrigues.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Matilde Bravo",
+    "photo": "matildebravo.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Miguel Freitas",
+    "photo": "miguelfreitas.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Pedro Fernandes",
+    "photo": "pedrofernandes.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Pedro Sousa",
+    "photo": "pedrosousa.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Ricardo Lucena",
+    "photo": "ricardolucena.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Rui Lopes",
+    "photo": "ruilopes.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Rui Oliveira",
+    "photo": "ruioliveira.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Simão Quintela",
+    "photo": "simaoquintela.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Sofia Gomes",
+    "photo": "sofiagomes.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Vitor Lelis",
+    "photo": "vitorlelis.jpg",
     "organization": "cesium"
   }
 ]
