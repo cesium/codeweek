@@ -72,7 +72,7 @@ export default function Speaker() {
                   Social Media
                 </p>
               )}
-              <div className="flex mt-4 gap-x-6 text-white text-xl">
+              <div className="space-x-4 w-[100px] h-[100px] mt-4 gap-x-6 text-white text-xl">
                 {speaker.github && (
                   <a
                     className="opacity-50 hover:opacity-100"
