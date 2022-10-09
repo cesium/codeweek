@@ -25,7 +25,7 @@ export default function Speakers() {
             </p>
           </div>
 
-          <div className="m-auto px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="m-auto mb-4 px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {speakers.map((speaker, i) => (
               <Link href={`/speaker/${i}`} key={speaker}>
                 <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple w-[220px]">
