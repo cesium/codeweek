@@ -39,7 +39,7 @@ export default function Team() {
                       <img
                         src={`/images/team/${member.photo}`}
                         alt={member.name}
-                        className="relative w-[220px] overflow-y-hidden"
+                        className="relative w-[220px] overflow-y-hidden rounded-lg"
                         height="220"
                       />
                     </div>

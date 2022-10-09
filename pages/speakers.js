@@ -35,7 +35,7 @@ export default function Speakers() {
                       <img
                         src={`/images/speakers/${speaker.photo}`}
                         alt={speaker.name}
-                        className="relative w-[220px] overflow-y-hidden"
+                        className="relative w-[220px] overflow-y-hidden rounded-lg"
                         height="220"
                       />
                     </div>
