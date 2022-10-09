@@ -27,7 +27,7 @@ function Home() {
               <p className="text-purple text-lg sm:text-2xl self-center">
                 October 17 - 20, 2022
               </p>
-              <p className="flex text-white text-xl border-r-2 h-[70px] self-center justify-self-center p-1" />
+              <p className="flex text-white text-xl border-r-2 h-[70px] self-center justify-self-center" />
               <p className="text-purple text-lg sm:text-2xl self-center p-4">
                 Building 7, Gualtar Campus
               </p>
