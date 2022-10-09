@@ -42,16 +42,16 @@
   },
   {
     "name": "Matilde Bravo",
-    "bio": "",
+    "bio": "Has a strong passion for everything Linux-related. Spends most of her time on the command line and doesn't like GUI's very much. If not on the computer, she's probably singing and playing with TMUM.",
     "role": "Open Source Department @ CeSIUM",
-    "facebook": "filipe.felicio.18",
-    "instagram": "felicio.filipe",
-    "linkedin": "feliciofilipe",
+    "github": "matildeopbravo",
+    "instagram": "matildebravo3",
+    "linkedin": "matilde-bravo",
     "photo": "matildebravo.png"
   },
   {
     "name": "Rui Lopes",
-    "bio": "Started programming four years ago and since there never stopped. Loves Python and its starting to love Elixir too. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
+    "bio": "Started programming four years ago and since then never stopped. Loves Python and is starting to love Elixir too. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
     "github": "ruil1904",
     "linkedin": "rui-lopes-dev",
     "role": "Open Source Department @ CeSIUM",
