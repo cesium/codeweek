@@ -22,7 +22,7 @@ export default function Team() {
             </p>
           </div>
 
-          <div className="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="m-auto px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {team.map((member) => (
               <div key={member}>
                 <div className="space-y-4 group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm overflow-hidden hover:border-purple  w-[220px] h-[220px]">
