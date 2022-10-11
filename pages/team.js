@@ -8,8 +8,8 @@ export default function Team() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Team</title>
+        <link rel="icon" href="/cw-favicon.ico" />
       </Head>
 
       <Navbar current_page="Team">
@@ -17,13 +17,13 @@ export default function Team() {
           <div className="px-10 mb-10">
             <p className="text-white text-[40px] mt-14 font-extrabold">Team</p>
             <p className="text-gray3 text-md mt-4">
-              This is an open source demo that Next.js developers can clone,
-              deploy, and fully customize for events. Created through
-              collaboration of marketers, designers, and developers at Vercel.
+              CeSIUM and NECC joined forces and became almost as strong as a
+              semicolon in C. Look at us: hard working people, code enthusiasts,
+              just like you!
             </p>
           </div>
 
-          <div className="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="m-auto px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {team.map((member) => (
               <PersonCard key={member} person={member} isSpeakers={false} />
             ))}

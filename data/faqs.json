@@ -1,26 +1,18 @@
 [
-    {
-        "question": "How do you make holy water?",
-        "answer": "You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat. "
-    },
-    {
-        "question": "What's the best thing about Switzerland?",
-        "answer": "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat."
-    },
-    {
-        "question": "What do you call someone with no body and no nose?",
-        "answer": "Nobody knows. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat."
-    },
-    {
-        "question": "Why do you never see elephants hiding in trees?",
-        "answer": "Because they're so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat."
-    },
-    {
-        "question": "Why can't you hear a pterodactyl go to the bathroom?",
-        "answe": "Because the pee is silent. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quas voluptatibus ex culpa ipsum, aspernatur blanditiis fugiat ullam magnam suscipit deserunt illum natus facilis atque vero consequatur! Quisquam, debitis error."
-    },
-    {
-        "question": "Why did the invisible man turn down the job offer?",
-        "answer": "He couldn't see himself doing it. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet perspiciatis officiis corrupti tenetur. Temporibus ut voluptatibus, perferendis sed unde rerum deserunt eius."
-    }
+  {
+    "question": "Is Code Week @ UMinho free?",
+    "answer": "Yes! It is completely free."
+  },
+  {
+    "question": "Do I need to register myself in order to attend the event?",
+    "answer": "No, to attend Code Week @ UMinho there's no need for any kind of registration."
+  },
+  {
+    "question": "I am not a student, can I attend the event?",
+    "answer": "Yes! Code Week @ UMinho is open to all the community. Everyone can participate in our talks and activities."
+  },
+  {
+    "question": "How can I contact the Code Week @ UMinho team?",
+    "answer": "You can e-mail us to codeweekuminho@gmail.com or leave a message on our social media accounts."
+  }
 ]

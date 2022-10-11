@@ -1,50 +1,127 @@
 [
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "cesium"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "cesium"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "necc"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "cesium"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "necc"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "cesium"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "necc"
-    },
-    {
-        "name": "Filipe Felício",
-        "role": "Software Developer @ Marmelasoft",
-        "photo": "filipe.png",
-        "organization": "cesium"
-    }
-] 
+  {
+    "name": "Alexandre Gomes",
+    "photo": "alexandregomes.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Alexandre Neves",
+    "photo": "alexandreneves.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Beatriz Rodrigues",
+    "photo": "beatrizrodrigues.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Bruno Jardim",
+    "photo": "brunojardim.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Daniel Pereira",
+    "photo": "danielpereira.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "David Machado",
+    "photo": "davidmachado.jpeg",
+    "organization": "necc"
+  },
+  {
+    "name": "Filipe Felício",
+    "photo": "filipefelicio.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Gonçalo Rodrigues",
+    "photo": "goncalorodrigues.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Gustavo Pereira",
+    "photo": "gustavopereira.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Henrique Pereira",
+    "photo": "henriquepereira.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Inês Presa",
+    "photo": "inespresa.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Jéssica Fernandes",
+    "photo": "jessicafernandes.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Júlio Pinto",
+    "photo": "juliopinto.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Leonardo Freitas",
+    "photo": "leonardofreitas.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Mário Rodrigues",
+    "photo": "mariorodrigues.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Matilde Bravo",
+    "photo": "matildebravo.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Miguel Freitas",
+    "photo": "miguelfreitas.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Pedro Fernandes",
+    "photo": "pedrofernandes.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Pedro Sousa",
+    "photo": "pedrosousa.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Ricardo Lucena",
+    "photo": "ricardolucena.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Rui Lopes",
+    "photo": "ruilopes.png",
+    "organization": "cesium"
+  },
+  {
+    "name": "Rui Oliveira",
+    "photo": "ruioliveira.jpeg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Simão Quintela",
+    "photo": "simaoquintela.jpg",
+    "organization": "necc"
+  },
+  {
+    "name": "Sofia Gomes",
+    "photo": "sofiagomes.jpg",
+    "organization": "cesium"
+  },
+  {
+    "name": "Vitor Lelis",
+    "photo": "vitorlelis.jpg",
+    "organization": "cesium"
+  }
+]

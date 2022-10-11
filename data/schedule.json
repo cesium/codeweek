@@ -1,120 +1,178 @@
 [
-    {
-      "date": "4 Oct",
-      "activities": [
-        {
-          "title": "Intro to Elixir",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "10 am",
-          "end": "11 am",
-          "speakers": 
-            [
-                {
-                    "name": "Filipe Felício",
-                    "role": "Software Developer @ Marmelasoft",
-                    "photo": "felicio.png"
-                }
-            ],
-          "location": "CP2-B1",
-          "emoji": "🧙‍♂️"
-        },
-        {
-          "title": "Talk Javascript",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "11 am",
-          "end": "12 am",
-          "speakers": 
-            [
-                {
-                    "name": "David Machado",
-                    "role": "President @ NECC",
-                    "photo": "david.png"
-                }
-            ],
-          "location": "CP2-B1"
-        },
-        {
-          "title": "Emacs vs Vim",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "11 am",
-          "end": "12 am",
-          "speakers": 
-            [
-                {
-                    "name": "Matilde Bravo",
-                    "role": "Open Source Department @ CeSIUM",
-                    "photo": "matilde.png"
-                },
-                {
-                    "name": "Henrique Pereira",
-                    "role": "Pedagogical Department @ CeSIUM"
-                }
-            ],
-          "location": "CP2-B1"
-        }
-      ]
-    },
-    {
-      "date": "5 Oct",
-      "activities": [
-        {
-          "title": "Shell Basics",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "10 am",
-          "end": "11 am",
-          "speakers": 
-            [
-                {
-                    "name": "Matilde Bravo",
-                    "role": "Open Source Department @ CeSIUM",
-                    "photo": "matilde.png"
-                }
-            ],
-          "location": "CP2-B1",
-          "emoji": "⌨️"
-        }
-      ]
-    },
-    {
-      "date": "6 Oct",
-      "activities": [
-        {
-          "title": "Linux Installation Party",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "10 am",
-          "end": "11 am",
-          "location": "CP2-B1",
-          "emoji": "🐧"
-        },
-        {
-          "title": "Torneio Xadrez",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "6 pm",
-          "end": "7 pm",
-          "location": "Remote",
-          "emoji": "♟️"
-        }
-      ]
-    },
-    {
-      "date": "7 Oct",
-      "activities": [
-        {
-          "title": "Linux Installation Party",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "10 am",
-          "end": "11 am",
-          "location": "CP2-B1",
-          "emoji": "🐧"
-        },
-        {
-          "title": "Geek night",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-          "start": "7 pm",
-          "end": "8 pm",
-          "location": "Tosga Bar",
-          "emoji": "🍻"
-        }
-      ]
-    }
+  {
+    "date": "17 Oct",
+    "activities": [
+      {
+        "title": "PF Study Session",
+        "description": "This time slot will be reserved to every student that wants to study and receive tutoring!",
+        "start": "16:00",
+        "end": "18:00",
+        "location": "TBD",
+        "emoji": "📚"
+      },
+      {
+        "title": "[Workshop] Git Good",
+        "description": "In almost every group project, the most used program, in order to version control the entire project, is git. This talk will show the workflow of git and all it's glory, so that you can git good!",
+        "start": "18:00",
+        "end": "19:00",
+        "speakers": [
+          {
+            "name": "Rui Oliveira",
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "ruioliveira.jpg"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "💻"
+      }
+    ]
+  },
+  {
+    "date": "18 Oct",
+    "activities": [
+      {
+        "title": "[Talk] Website à la Carte",
+        "description": "Learn Web Dev by building an actual website  in a choose your own adventure manner. Come with me in this adventure of learning one of the most in demand market skills.",
+        "start": "15:00",
+        "end": "17:00",
+        "speakers": [
+          {
+            "name": "David Machado",
+            "role": "President @ NECC",
+            "photo": "davidmachado.jpeg"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "🗣️"
+      },
+      {
+        "title": "Chess Tournament",
+        "description": "This will be a remote chess tournament, so that everyone interested can join! Let's take a break from all the programming nonsense and focus on some real thinking.",
+        "start": "22:00",
+        "end": "23:30",
+        "location": "Remote",
+        "emoji": "♟️"
+      }
+    ]
+  },
+  {
+    "date": "19 Oct",
+    "activities": [
+      {
+        "title": "[Workshop] Shell Basics",
+        "description": "Every programmer is aware that the most powerful tool we have at our dispose is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
+        "start": "16:00",
+        "end": "17:00",
+        "speakers": [
+          {
+            "name": "Matilde Bravo",
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "matildebravo.png"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "🐚"
+      },
+      {
+        "title": "Coffee Break",
+        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
+        "start": "17:00",
+        "end": "17:30",
+        "location": "TBD",
+        "emoji": "☕"
+      },
+      {
+        "title": "[Round Table] How would my life be in the future?",
+        "description": "Have you ever wonder how would your life be in the future? That's crazy, right? We bring some people to tell you about their lives after graduating in Software Engineer here @ University of Minho.",
+        "start": "18:00",
+        "end": "19:00",
+        "location": "TBD",
+        "emoji": "🔮"
+      }
+    ]
+  },
+  {
+    "date": "20 Oct",
+    "activities": [
+      {
+        "title": "LI1/PF Study Session",
+        "description": "This time slot will be reserved to every student that wants to study and receive tutoring.",
+        "start": "14:00",
+        "end": "16:00",
+        "location": "TBD",
+        "emoji": "📚"
+      },
+      {
+        "title": "[Talk] Why Elixir?",
+        "description": "There is a simple and short answer to the question: \"What is the best programming language?\", which is: \"It depends\". Despite that, If I really had to elect one, I would choose Elixir. Elixir is a functional, concurrent, general-purpose programming language that runs on the BEAM. Created in 2012, it has been the backbone of CeSIUM's software stack and used to write and re-write almost all of its software products/services. In this talk, we will dive into the main reasons for it, whence the name, \"Why Elixir?\".",
+        "start": "16:00",
+        "end": "17:00",
+        "speakers": [
+          {
+            "name": "Filipe Felício",
+            "role": "Software Developer @ Marmelasoft",
+            "photo": "filipefelicio.png"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "🧙‍♂️"
+      },
+      {
+        "title": "Coffee Break",
+        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
+        "start": "17:00",
+        "end": "17:30",
+        "location": "TBD",
+        "emoji": "☕"
+      },
+      {
+        "title": "[Talk] Linux Showcase",
+        "description": "Have you heard of Linux? Whether yes or not, this is the place for you. This showcase aims to show you everything about the world of Linux. From its creation to all the families and distributions that are out there. This is general culture, at least that's what I think!",
+        "start": "18:00",
+        "end": "19:00",
+        "speakers": [
+          {
+            "name": "Rui Lopes",
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "ruilopes.png"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "🐧"
+      },
+      {
+        "title": "Geek Night",
+        "description": "",
+        "start": "21:30",
+        "end": "23:30",
+        "speakers": [
+          {
+            "name": "Dário Guimarães",
+            "role": "Student @ University of Minho"
+          },
+          {
+            "name": "Filipe Felício",
+            "role": "Software Engineer @ Marmelasoft",
+            "photo": "filipefelicio.png"
+          },
+          {
+            "name": "Henrique Pereira",
+            "role": "Pedagogical Department @ CeSIUM",
+            "photo": "henriquepereira.jpg"
+          },
+          {
+            "name": "Ianni",
+            "role": "Erasmus Student @ University of Minho"
+          },
+          {
+            "name": "Matilde Bravo",
+            "role": "Open Source Department @ CeSIUM",
+            "photo": "matildebravo.png"
+          }
+        ],
+        "location": "TBD",
+        "emoji": "🍻"
+      }
+    ]
+  }
 ]
