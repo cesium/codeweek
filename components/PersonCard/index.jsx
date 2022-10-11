@@ -20,8 +20,8 @@ export default function PersonCard({ person, isSpeakers }) {
     }
   }
   return (
-    <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
-      <div className="aspect-w-3 aspect-h-2">
+    <div className="h-full space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple overflow-hidden">
+      <div className="">
         <RenderOverlayOrganization />
 
         <Image
