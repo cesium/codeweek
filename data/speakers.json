@@ -11,12 +11,44 @@
     "photo": "felicio.png"
   },
   {
+<<<<<<< HEAD
     "name": "David Machado",
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
     "role": "President @ NECC",
     "github": "feliciofilipe",
     "twitter": "filipejfelicio",
     "photo": "david.png"
+||||||| parent of a1aa485 (Add Henrique's bio)
+    "name": "Henrique Pereira",
+    "bio": "",
+    "role": "Pedagogical Department @ CeSIUM",
+    "linkedin": "",
+    "github": "",
+    "photo": "henriquepereira.jpg"
+  },
+  {
+    "name": "Ianni",
+    "bio": "",
+    "role": "Erasmus Student @ University of Minho",
+    "github": "",
+    "instagram": "",
+    "photo": "unknown.png"
+=======
+    "name": "Henrique Pereira",
+    "bio": "Admires everything that respects its user's freedom - that's why his emacs journey started. One of his purposes is to bring libre software more approachable to everyone. Free as in free speech not as in free beer!",
+    "role": "Pedagogical Department @ CeSIUM",
+    "linkedin": "",
+    "github": "hgp22",
+    "photo": "henriquepereira.jpg"
+  },
+  {
+    "name": "Ianni",
+    "bio": "",
+    "role": "Erasmus Student @ University of Minho",
+    "github": "",
+    "instagram": "",
+    "photo": "unknown.png"
+>>>>>>> a1aa485 (Add Henrique's bio)
   },
   {
     "name": "Matilde Bravo",
