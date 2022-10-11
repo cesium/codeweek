@@ -14,7 +14,7 @@ export default function PersonCard({ person, isSpeakers }) {
             className="w-12 sm:w-20"
             src={`/images/logos/${person.organization}.svg`}
             alt={person.organization}
-            />
+          />
         </div>
       );
     }
