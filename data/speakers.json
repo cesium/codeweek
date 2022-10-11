@@ -1,14 +1,11 @@
 [
   {
-    "name": "Filipe Felício",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-    "role": "Software Developer @ Marmelasoft",
-    "facebook": "filipe.felicio.18",
-    "instagram": "felicio.filipe",
-    "linkedin": "feliciofilipe",
-    "github": "feliciofilipe",
-    "twitter": "filipejfelicio",
-    "photo": "felicio.png"
+    "name": "David Machado",
+    "bio": "Full-stack developer, started his coding journey at sixteen. As a vocational highschool graduation project he built a CSS framework. Currently studying Computer Science @ University of Minho.",
+    "role": "President @ NECC",
+    "github": "quantik-git",
+    "instagram": "quantik.insta",
+    "photo": "davidmachado.jpeg"
   },
   {
     "name": "Henrique Pereira",
