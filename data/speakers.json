@@ -1,5 +1,13 @@
 [
   {
+    "name": "Dário Guimarães",
+    "bio": "",
+    "role": "Student @ University of Minho",
+    "github": "",
+    "instagram": "",
+    "photo": "unknown.png"
+  },
+  {
     "name": "David Machado",
     "bio": "Full-stack developer, started his coding journey at sixteen. As a vocational highschool graduation project he built a CSS framework. Currently studying Computer Science @ University of Minho.",
     "role": "President @ NECC",
@@ -8,25 +16,9 @@
     "photo": "davidmachado.jpeg"
   },
   {
-    "name": "Henrique Pereira",
-    "bio": "Admires everything that respects its user's freedom - that's why his emacs journey started. One of his purposes is to bring libre software more approachable to everyone. Free as in free speech not as in free beer!",
-    "role": "Pedagogical Department @ CeSIUM",
-    "linkedin": "",
-    "github": "hgp22",
-    "photo": "henriquepereira.jpg"
-  },
-  {
     "name": "Ianni",
     "bio": "",
     "role": "Erasmus Student @ University of Minho",
-    "github": "",
-    "instagram": "",
-    "photo": "unknown.png"
-  },
-  {
-    "name": "Dário Guimarães",
-    "bio": "",
-    "role": "Student @ University of Minho",
     "github": "",
     "instagram": "",
     "photo": "unknown.png"
@@ -47,14 +39,6 @@
     "linkedin": "",
     "github": "",
     "photo": "henriquepereira.jpg"
-  },
-  {
-    "name": "Ianni",
-    "bio": "",
-    "role": "Erasmus Student @ University of Minho",
-    "github": "",
-    "instagram": "",
-    "photo": "unknown.png"
   },
   {
     "name": "Matilde Bravo",
