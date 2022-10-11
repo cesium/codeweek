@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Link from "next/link";
-import Image from "next/image";
 import Navbar from "/components/Navbar";
 
 import speakers from "/data/speakers.json";
@@ -26,18 +25,20 @@ export default function Speakers() {
             </p>
           </div>
 
-          <div className="px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="m-auto px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {speakers.map((speaker, i) => (
               <Link href={`/speaker/${i}`} key={speaker}>
-                <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
+                <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple w-[220px]">
                   <div className="aspect-w-3 aspect-h-2">
-                    <Image
-                      className="rounded-md"
-                      src={`/images/speakers/${speaker.photo}`}
-                      alt={speaker.name}
-                      width={500}
-                      height={500}
-                    />
+                    <div className="relative overflow-hidden h-[220px]">
+                      {/* eslint-disable @next/next/no-img-element */}
+                      <img
+                        src={`/images/speakers/${speaker.photo}`}
+                        alt={speaker.name}
+                        className="relative w-[220px] overflow-y-hidden rounded-lg"
+                        height="220"
+                      />
+                    </div>
                   </div>
                   <div className="space-y-2 px-4 pb-8">
                     <div className="text-lg leading-6 font-medium space-y-1">

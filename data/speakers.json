@@ -27,17 +27,60 @@
     "photo": "unknown.png"
   },
   {
-    "name": "Matilde Bravo",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-    "role": "Open Source Department @ CeSIUM",
-    "facebook": "filipe.felicio.18",
-    "instagram": "felicio.filipe",
+    "name": "Dário Guimarães",
+    "bio": "",
+    "role": "Student @ University of Minho",
+    "github": "",
+    "instagram": "",
+    "photo": "unknown.png"
+  },
+  {
+    "name": "Filipe Felício",
+    "bio": "Started programming five years ago. Used to spend all day writing code in CeSIUM, still do from time to time. Elixir enthusiast, working @ Marmelasoft. Proud owner of a |> tattoo.",
+    "role": "Software Engineer @ Marmelasoft",
     "linkedin": "feliciofilipe",
-    "photo": "matilde.png"
+    "github": "feliciofilipe",
+    "twitter": "filipejfelicio",
+    "photo": "filipefelicio.png"
   },
   {
     "name": "Henrique Pereira",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere tortor nec est dignissim luctus. Aenean dapibus mi sit amet felis euismod, ac pellentesque massa vehicula. Vivamus libero turpis, volutpat placerat rhoncus et, viverra eget sapien. Aenean vitae ex ullamcorper, fermentum massa eu, venenatis ipsum. Phasellus nisi odio, ultricies id cursus ac, sagittis at lacus. Curabitur dui felis, volutpat efficitur efficitur eget, elementum id libero. Praesent vulputate, arcu at vulputate pellentesque, elit nulla dictum arcu, vitae condimentum orci libero non turpis. Nullam tristique lectus in vulputate mattis. Sed iaculis nisi non leo ullamcorper venenatis. ",
-    "role": "Pedagogical Department @ CeSIUM"
+    "bio": "",
+    "role": "Pedagogical Department @ CeSIUM",
+    "linkedin": "",
+    "github": "",
+    "photo": "henriquepereira.jpg"
+  },
+  {
+    "name": "Ianni",
+    "bio": "",
+    "role": "Erasmus Student @ University of Minho",
+    "github": "",
+    "instagram": "",
+    "photo": "unknown.png"
+  },
+  {
+    "name": "Matilde Bravo",
+    "bio": "Has a strong passion for everything Linux-related. Spends most of her time on the command line and doesn't like GUI's very much. If not on the computer, she's probably singing and playing with TMUM.",
+    "role": "Open Source Department @ CeSIUM",
+    "github": "matildeopbravo",
+    "instagram": "matildebravo3",
+    "linkedin": "matilde-bravo",
+    "photo": "matildebravo.png"
+  },
+  {
+    "name": "Rui Lopes",
+    "bio": "Started programming four years ago and since then never stopped. Loves Python and is starting to love Elixir too. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
+    "github": "ruil1904",
+    "linkedin": "rui-lopes-dev",
+    "role": "Open Source Department @ CeSIUM",
+    "photo": "ruilopes.png"
+  },
+  {
+    "name": "Rui Oliveira",
+    "bio": "",
+    "role": "Open Source Department @ CeSIUM",
+    "github": "ruioliveira02",
+    "photo": "ruioliveira.jpg"
   }
 ]
