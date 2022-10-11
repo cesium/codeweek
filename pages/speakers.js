@@ -29,7 +29,9 @@ export default function Speakers() {
           <div className="px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {speakers.map((speaker, i) => (
               <Link href={`/speaker/${i}`} key={speaker}>
-                <PersonCard key={speaker} person={speaker} isSpeakers />
+                <a>
+                  <PersonCard key={speaker} person={speaker} isSpeakers />
+                </a>
               </Link>
             ))}
           </div>
