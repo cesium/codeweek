@@ -8,18 +8,20 @@ export default function PersonCard({ person, isSpeakers }) {
   function RenderOverlayOrganization() {
     if (!isSpeakers) {
       return (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          className="hidden absolute inset-0 top-2 left-2 z-40 w-12 sm:w-20 group-hover:block"
-          src={`/images/logos/${person.organization}.svg`}
-          alt={person.organization}
-        />
+        <div className="hidden group-hover:block absolute top-0 left-0 right-0 z-40 bg-gradient-to-b from-purple p-2">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            className="w-12 sm:w-20"
+            src={`/images/logos/${person.organization}.svg`}
+            alt={person.organization}
+          />
+        </div>
       );
     }
   }
   return (
-    <div className="space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple">
-      <div className="aspect-w-3 aspect-h-2">
+    <div className="h-full space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple overflow-hidden">
+      <div className="">
         <RenderOverlayOrganization />
 
         <Image
