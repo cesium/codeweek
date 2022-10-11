@@ -1,5 +1,13 @@
 [
   {
+    "name": "Dário Guimarães",
+    "bio": "",
+    "role": "Student @ University of Minho",
+    "github": "darguima",
+    "instagram": "",
+    "photo": "unknown.png"
+  },
+  {
     "name": "David Machado",
     "bio": "Full-stack developer, started his coding journey at sixteen. As a vocational highschool graduation project he built a CSS framework. Currently studying Computer Science @ University of Minho.",
     "role": "President @ NECC",
@@ -8,11 +16,10 @@
     "photo": "davidmachado.jpeg"
   },
   {
-    "name": "Dário Guimarães",
+    "name": "Ianni",
     "bio": "",
-    "role": "Student @ University of Minho",
+    "role": "Erasmus Student @ University of Minho",
     "github": "",
-    "instagram": "",
     "photo": "unknown.png"
   },
   {
@@ -26,19 +33,11 @@
   },
   {
     "name": "Henrique Pereira",
-    "bio": "",
+    "bio": "Admires everything that respects its user's freedom - that's why his emacs journey started. Turn libre software more approachable to everyone is one of his purposes. Free as in free speech not as in free beer!",
     "role": "Pedagogical Department @ CeSIUM",
     "linkedin": "",
     "github": "",
     "photo": "henriquepereira.jpg"
-  },
-  {
-    "name": "Ianni",
-    "bio": "",
-    "role": "Erasmus Student @ University of Minho",
-    "github": "",
-    "instagram": "",
-    "photo": "unknown.png"
   },
   {
     "name": "Matilde Bravo",
@@ -59,7 +58,7 @@
   },
   {
     "name": "Rui Oliveira",
-    "bio": "",
+    "bio": "Started programming at 13 years old. Whilst in high school earned the chance to showcase his talents at several domestic and international programming contests. An active contributor and core team member to CeSIUM Open Source plataforms.",
     "role": "Open Source Department @ CeSIUM",
     "github": "ruioliveira02",
     "photo": "ruioliveira.jpg"

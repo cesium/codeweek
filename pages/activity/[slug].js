@@ -68,7 +68,7 @@ export default function Activity() {
               {activity.speakers &&
                 activity.speakers.map((speaker) => (
                   <div
-                    className="cursor-pointer group sm:w-80 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-purple"
+                    className="cursor-pointer group w-3/4 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-purple"
                     key={speaker}
                   >
                     <div className="flex items-center space-x-3 rounded-sm border-gray3">
