@@ -5,7 +5,7 @@
     "role": "Student @ University of Minho",
     "github": "darguima",
     "instagram": "",
-    "photo": "unknown.png"
+    "photo": "darioguimaraes.jpg"
   },
   {
     "name": "David Machado",
@@ -16,11 +16,11 @@
     "photo": "davidmachado.jpeg"
   },
   {
-    "name": "Ianni",
+    "name": "Ioannis Nezis",
     "bio": "",
     "role": "Erasmus Student @ University of Minho",
-    "github": "",
-    "photo": "unknown.png"
+    "github": "ioannisnezis",
+    "photo": "ioannisnezis.jpg"
   },
   {
     "name": "Filipe Felício",
@@ -33,11 +33,21 @@
   },
   {
     "name": "Henrique Pereira",
-    "bio": "Admires everything that respects its user's freedom - that's why his emacs journey started. Turn libre software more approachable to everyone is one of his purposes. Free as in free speech not as in free beer!",
+    "bio": "Admires everything that respects its user's freedom - that's why his Emacs journey started. Turn libre software more approachable to everyone is one of his purposes. Free as in free speech not as in free beer!",
     "role": "Pedagogical Department @ CeSIUM",
     "linkedin": "",
     "github": "",
     "photo": "henriquepereira.jpg"
+  },
+  {
+    "name": "Daniel Pereira",
+    "bio": "Programming enthusiast, especially when using Vim, who started his coding adventure in high school. Loves Python and Elixir. If you want to find him, just look for a guy with an hat in CeSIUM.",
+    "role": "Pedagogical Department @ CeSIUM",
+    "twitter": "danielsp_45",
+    "instagram": "danielsp_45",
+    "linkedin": "daniel-pereira45",
+    "github": "danielsp45",
+    "photo": "danielpereira.jpg"
   },
   {
     "name": "Matilde Bravo",
@@ -62,5 +72,12 @@
     "role": "Open Source Department @ CeSIUM",
     "github": "ruioliveira02",
     "photo": "ruioliveira.jpg"
+  },
+  {
+    "name": "José Nuno Oliveira",
+    "bio": "José Nuno Oliveira, mostly known as JNO, is a professor and researcher at University of Minho. His research aims at improving scientific standards in software design through formal methods and calculational techniques. He does this with passion and firmly believe this will make computing better in the future.",
+    "role": "Professor and researcher @ University of Minho",
+    "github": "JoseNunoOliveira",
+    "photo": "jno.png"
   }
 ]
