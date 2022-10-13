@@ -62,7 +62,7 @@ export default function Speaker() {
 
             <div className="mt-8 xl:w-2/3">
               <p className="text-white text-2xl mt-4 font-bold">Bio</p>
-              <p className="text-gray3 text-md mt-1">{speaker.bio}</p>
+              <p className="text-gray3 text-xl mt-1">{speaker.bio}</p>
               {(speaker.github ||
                 speaker.facebook ||
                 speaker.instagram ||
