@@ -22,7 +22,7 @@
             "photo": "ruioliveira.jpg"
           }
         ],
-        "location": "TBD",
+        "location": "DI-A1",
         "emoji": "💻"
       }
     ]
@@ -42,7 +42,7 @@
             "photo": "davidmachado.jpeg"
           }
         ],
-        "location": "TBD",
+        "location": "DI-A1",
         "emoji": "🗣️"
       },
       {
@@ -70,7 +70,7 @@
             "photo": "matildebravo.png"
           }
         ],
-        "location": "TBD",
+        "location": "CP1-A1",
         "emoji": "🐚"
       },
       {
@@ -86,7 +86,7 @@
         "description": "Have you ever wonder how would your life be in the future? That's crazy, right? We bring some people to tell you about their lives after graduating in Software Engineer here @ University of Minho.",
         "start": "18:00",
         "end": "19:00",
-        "location": "TBD",
+        "location": "CP1-A1",
         "emoji": "🔮"
       }
     ]
@@ -99,7 +99,7 @@
         "description": "This time slot will be reserved to every student that wants to study and receive tutoring.",
         "start": "14:00",
         "end": "16:00",
-        "location": "TBD",
+        "location": "DI-Sala Aberta",
         "emoji": "📚"
       },
       {
@@ -114,7 +114,7 @@
             "photo": "filipefelicio.png"
           }
         ],
-        "location": "TBD",
+        "location": "DI-A1",
         "emoji": "🧙‍♂️"
       },
       {
@@ -137,7 +137,7 @@
             "photo": "ruilopes.png"
           }
         ],
-        "location": "TBD",
+        "location": "DI-A1",
         "emoji": "🐧"
       },
       {
@@ -161,13 +161,13 @@
             "photo": "henriquepereira.jpg"
           },
           {
-            "name": "Ianni",
-            "role": "Erasmus Student @ University of Minho"
+            "name": "Daniel Pereira",
+            "role": "Pedagogical Department @ CeSIUM",
+            "photo": "daniel.jpg"
           },
           {
-            "name": "Matilde Bravo",
-            "role": "Open Source Department @ CeSIUM",
-            "photo": "matildebravo.png"
+            "name": "Ianni",
+            "role": "Erasmus Student @ University of Minho"
           }
         ],
         "location": "TBD",

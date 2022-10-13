@@ -40,6 +40,14 @@
     "photo": "henriquepereira.jpg"
   },
   {
+    "name": "Daniel Pereira",
+    "bio": "Programming enthusiast, especially when using Vim, who started his coding adventure in high school. Loves Python and Elixir. If you want to find him, just look for a guy with a hat in CeSIUM.",
+    "role": "Pedagogical Department @ CeSIUM",
+    "linkedin": "daniel-pereira45",
+    "github": "danielsp45",
+    "photo": "daniel.jpg"
+  },
+  {
     "name": "Matilde Bravo",
     "bio": "Has a strong passion for everything Linux-related. Spends most of her time on the command line and doesn't like GUI's very much. If not on the computer, she's probably singing and playing with TMUM.",
     "role": "Open Source Department @ CeSIUM",
@@ -62,5 +70,12 @@
     "role": "Open Source Department @ CeSIUM",
     "github": "ruioliveira02",
     "photo": "ruioliveira.jpg"
+  },
+  {
+    "name": "José Nuno Oliveira",
+    "bio": "José Nuno Oliveira, mostly known as JNO, is a professor and researcher at University of Minho. His research aims at improving scientific standards in software design through formal methods and calculational techniques. He does this with passion and firmly believe this will make computing better in the future.",
+    "role": "Professor and researcher @ University of Minho",
+    "github": "JoseNunoOliveira",
+    "photo": "jno.png"
   }
 ]
