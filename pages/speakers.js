@@ -26,7 +26,7 @@ export default function Speakers() {
             </p>
           </div>
 
-          <div className="px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
+          <div className="mb-4 px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 2xl:grid-cols-7 gap-2">
             {speakers.map((speaker, i) => (
               <Link href={`/speaker/${i}`} key={speaker}>
                 <a>
