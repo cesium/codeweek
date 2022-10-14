@@ -20,23 +20,26 @@ export default function PersonCard({ person, isSpeakers }) {
     }
   }
   return (
-    <div className="h-full space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple overflow-hidden">
-      <div className="">
-        <RenderOverlayOrganization />
+    <div className="h-full">
+      <div className="h-full space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple overflow-hidden">
+        <div>
+          <RenderOverlayOrganization />
 
-        <Image
-          className="rounded-md object-cover"
-          src={imageURL}
-          alt={person.name}
-          width={500}
-          height={500}
-        />
-      </div>
+          <Image
+            className="rounded-md object-cover"
+            src={imageURL}
+            alt={person.name}
+            width={500}
+            height={500}
+            layout="responsive"
+          />
+        </div>
 
-      <div className="space-y-2 px-4 pb-8">
-        <div className="text-lg leading-6 font-medium space-y-1">
-          <p className="text-white text-xl font-bold">{person.name}</p>
-          <p className="text-sm text-gray3">{person.role}</p>
+        <div className="space-y-2 px-4 pb-8">
+          <div className="text-lg leading-6 font-medium space-y-1">
+            <p className="text-white text-xl font-bold">{person.name}</p>
+            <p className="text-sm text-gray3">{person.role}</p>
+          </div>
         </div>
       </div>
     </div>
