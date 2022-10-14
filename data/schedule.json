@@ -59,10 +59,33 @@
     "date": "19 Oct",
     "activities": [
       {
-        "title": "[Workshop] Shell Basics",
-        "description": "Every programmer is aware that the most powerful tool we have at our dispose is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
+        "title": "[Talk] Maths applied to computing",
+        "description": "Have you ever thought that programming is a science? In this talk, the professor and researcher JNO will talk about how maths can be applied to computing and its importance in the area.",
         "start": "16:00",
         "end": "17:00",
+        "speakers": [
+          {
+            "name": "José Nuno Oliveira",
+            "role": "Professor and researcher @ University of Minho",
+            "photo": "jno.png"
+          }
+        ],
+        "location": "Building 1, A1",
+        "emoji": "🧑‍🏫"
+      },
+      {
+        "title": "Coffee Break",
+        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
+        "start": "17:00",
+        "end": "17:30",
+        "location": "TBD",
+        "emoji": "☕"
+      },
+      {
+        "title": "[Workshop] Shell Basics",
+        "description": "Every programmer is aware that the most powerful tool we have at our dispose is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
+        "start": "17:30",
+        "end": "18:30",
         "speakers": [
           {
             "name": "Matilde Bravo",
@@ -74,18 +97,10 @@
         "emoji": "🐚"
       },
       {
-        "title": "Coffee Break",
-        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
-        "start": "17:00",
-        "end": "17:30",
-        "location": "TBD",
-        "emoji": "☕"
-      },
-      {
         "title": "[Round Table] How would my life be in the future?",
         "description": "Have you ever wonder how would your life be in the future? That's crazy, right? We bring some people to tell you about their lives after graduating in Software Engineer here @ University of Minho.",
-        "start": "18:00",
-        "end": "19:00",
+        "start": "18:30",
+        "end": "19:30",
         "location": "Building 1, A1",
         "emoji": "🔮"
       }
