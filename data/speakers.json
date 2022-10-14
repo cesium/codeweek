@@ -1,5 +1,15 @@
 [
   {
+    "name": "Daniel Pereira",
+    "bio": "Programming enthusiast, especially when using Vim, who started his coding adventure in high school. Loves Python and Elixir. If you want to find him, just look for a guy with a cap in CeSIUM.",
+    "role": "Pedagogical Department @ CeSIUM",
+    "twitter": "danielsp_45",
+    "instagram": "danielsp_45",
+    "linkedin": "daniel-pereira45",
+    "github": "danielsp45",
+    "photo": "danielpereira.jpg"
+  },
+  {
     "name": "Dário Guimarães",
     "bio": "",
     "role": "Student @ University of Minho",
@@ -17,7 +27,7 @@
   },
   {
     "name": "Ioannis Nezis",
-    "bio": "Kubernetes, WebAssembly, Serveless, Cloud computing and Elixir - all things i dont know shit about. I have my tippy toes in full stack development with Django and I'm trying to get into DevOps stuff. Procrastination Enthusiast, working @ nothing important.",
+    "bio": "Kubernetes, WebAssembly, Serverless, Cloud computing and Elixir - things he says that doesn't know shit about. He has his tippy toes in full stack development with Django and is trying to get into DevOps stuff. Procrastination enthusiast, working @ nothing important.",
     "role": "Erasmus Student @ University of Minho",
     "github": "ioannisnezis",
     "photo": "ioannisnezis.jpg"
@@ -38,16 +48,6 @@
     "linkedin": "",
     "github": "",
     "photo": "henriquepereira.jpg"
-  },
-  {
-    "name": "Daniel Pereira",
-    "bio": "Programming enthusiast, especially when using Vim, who started his coding adventure in high school. Loves Python and Elixir. If you want to find him, just look for a guy with an hat in CeSIUM.",
-    "role": "Pedagogical Department @ CeSIUM",
-    "twitter": "danielsp_45",
-    "instagram": "danielsp_45",
-    "linkedin": "daniel-pereira45",
-    "github": "danielsp45",
-    "photo": "danielpereira.jpg"
   },
   {
     "name": "Matilde Bravo",
