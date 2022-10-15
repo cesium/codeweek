@@ -77,7 +77,7 @@ export default function Speaker() {
                 </p>
               )}
               <div className="space-x-4 w-[160px] h-[160px] mt-4 gap-x-6 text-white text-xl">
-              {speaker.linkedin && (
+                {speaker.linkedin && (
                   <a
                     className="opacity-50 hover:opacity-100"
                     href={`https://www.linkedin.com/in/${speaker.linkedin}`}
