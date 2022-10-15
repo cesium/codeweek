@@ -3,18 +3,23 @@
     "name": "Daniel Pereira",
     "bio": "Programming enthusiast, especially when using Vim, who started his coding adventure in high school. Loves Python and Elixir. If you want to find him, just look for a guy with a cap in CeSIUM.",
     "role": "Pedagogical Department @ CeSIUM",
-    "twitter": "danielsp_45",
-    "instagram": "danielsp_45",
     "linkedin": "daniel-pereira45",
     "github": "danielsp45",
+    "twitter": "danielsp_45",
+    "instagram": "danielsp_45",
     "photo": "danielpereira.jpg"
   },
   {
+    "name": "Daniel Tinoco",
+    "role": "Software Engineer @ Remote",
+    "github": "0urobor0s",
+    "photo": "unknown.jpg"
+  },
+  {
     "name": "Dário Guimarães",
-    "bio": "",
     "role": "Student @ University of Minho",
+    "linkedin": "darguima",
     "github": "darguima",
-    "instagram": "",
     "photo": "darioguimaraes.jpg"
   },
   {
@@ -42,28 +47,48 @@
     "photo": "filipefelicio.png"
   },
   {
+    "name": "Francisco Neves",
+    "role": "Team Leader @ Nutrium",
+    "linkedin": "fntneves",
+    "github": "fntneves",
+    "photo": "francisconeves.jpg"
+  },
+  {
     "name": "Henrique Pereira",
     "bio": "Admires everything that respects its user's freedom - that's why his Emacs journey started. Turn libre software more approachable to everyone is one of his purposes. Free as in free speech not as in free beer!",
     "role": "Pedagogical Department @ CeSIUM",
-    "linkedin": "",
-    "github": "",
+    "github": "hgp22",
     "photo": "henriquepereira.jpg"
   },
   {
     "name": "Matilde Bravo",
     "bio": "Has a strong passion for everything Linux-related. Spends most of her time on the command line and doesn't like GUI's very much. If not on the computer, she's probably singing and playing with TMUM.",
     "role": "Open Source Department @ CeSIUM",
+    "linkedin": "matilde-bravo",
     "github": "matildeopbravo",
     "instagram": "matildebravo3",
-    "linkedin": "matilde-bravo",
     "photo": "matildebravo.png"
+  },
+  {
+    "name": "Martinho Aragão",
+    "role": "Chief Product Officer @ Utrust",
+    "linkedin": "martinhoaragao",
+    "github": "martinhoaragao",
+    "photo": "martinhoaragao.jpg"
+  },
+  {
+    "name": "Nelson Estevão",
+    "role": "Software Engineer @ Marmelasoft",
+    "linkedin": "nelsonmestevao",
+    "github": "nelsonmestevao",
+    "photo": "nelsonestevao.jpeg"
   },
   {
     "name": "Rui Lopes",
     "bio": "Started programming four years ago and since then never stopped. Loves Python and is starting to love Elixir too. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
-    "github": "ruil1904",
-    "linkedin": "rui-lopes-dev",
     "role": "Open Source Department @ CeSIUM",
+    "linkedin": "rui-lopes-dev",
+    "github": "RuiL1904",
     "photo": "ruilopes.png"
   },
   {
