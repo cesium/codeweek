@@ -13,7 +13,7 @@
     "name": "Daniel Tinoco",
     "role": "Software Engineer @ Remote",
     "github": "0urobor0s",
-    "photo": "unknown.jpg"
+    "photo": "danieltinoco.jpg"
   },
   {
     "name": "Dário Guimarães",
@@ -29,13 +29,6 @@
     "github": "quantik-git",
     "instagram": "quantik.insta",
     "photo": "davidmachado.jpeg"
-  },
-  {
-    "name": "Ioannis Nezis",
-    "bio": "Kubernetes, WebAssembly, Serverless, Cloud computing and Elixir - things he says that doesn't know shit about. He has his tippy toes in full stack development with Django and is trying to get into DevOps stuff. Procrastination enthusiast, working @ nothing important.",
-    "role": "Erasmus Student @ University of Minho",
-    "github": "ioannisnezis",
-    "photo": "ioannisnezis.jpg"
   },
   {
     "name": "Filipe Felício",
@@ -59,6 +52,20 @@
     "role": "Pedagogical Department @ CeSIUM",
     "github": "hgp22",
     "photo": "henriquepereira.jpg"
+  },
+  {
+    "name": "Ioannis Nezis",
+    "bio": "Kubernetes, WebAssembly, Serverless, Cloud computing and Elixir - things he says that doesn't know shit about. He has his tippy toes in full stack development with Django and is trying to get into DevOps stuff. Procrastination enthusiast, working @ nothing important.",
+    "role": "Erasmus Student @ University of Minho",
+    "github": "ioannisnezis",
+    "photo": "ioannisnezis.jpg"
+  },
+  {
+    "name": "José Nuno Oliveira",
+    "bio": "José Nuno Oliveira, mostly known as JNO, is a professor and researcher at University of Minho. His research aims at improving scientific standards in software design through formal methods and calculational techniques. He does this with passion and firmly believe this will make computing better in the future.",
+    "role": "Professor and researcher @ University of Minho",
+    "github": "JoseNunoOliveira",
+    "photo": "jno.png"
   },
   {
     "name": "Matilde Bravo",
@@ -97,12 +104,5 @@
     "role": "Open Source Department @ CeSIUM",
     "github": "ruioliveira02",
     "photo": "ruioliveira.jpg"
-  },
-  {
-    "name": "José Nuno Oliveira",
-    "bio": "José Nuno Oliveira, mostly known as JNO, is a professor and researcher at University of Minho. His research aims at improving scientific standards in software design through formal methods and calculational techniques. He does this with passion and firmly believe this will make computing better in the future.",
-    "role": "Professor and researcher @ University of Minho",
-    "github": "JoseNunoOliveira",
-    "photo": "jno.png"
   }
 ]
