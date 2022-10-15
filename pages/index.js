@@ -21,7 +21,7 @@ function Home() {
           </div>
           <div className="md:max-w-[700px] px-4">
             <p className="text-white text-5xl font-bold sm:text-6xl sm:font-extrabold">
-              Code Week 2022 @ University of Minho
+              EU Code Week 2022 @ University of Minho
             </p>
             <div className="grid grid-cols-3 p-6">
               <p className="text-purple text-lg sm:text-2xl self-center">
