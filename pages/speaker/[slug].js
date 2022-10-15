@@ -61,18 +61,32 @@ export default function Speaker() {
             </div>
 
             <div className="mt-8 xl:w-2/3">
-              <p className="text-white text-2xl mt-4 font-bold">Bio</p>
-              <p className="text-gray3 text-xl mt-1">{speaker.bio}</p>
-              {(speaker.github ||
-                speaker.facebook ||
+              {speaker.bio && (
+                <>
+                  <p className="text-white text-2xl mt-4 font-bold">Bio</p>
+                  <p className="text-gray3 text-lg mt-1">{speaker.bio}</p>
+                </>
+              )}
+              {(speaker.linkedin ||
+                speaker.github ||
+                speaker.twitter ||
                 speaker.instagram ||
-                speaker.linkedin ||
-                speaker.twitter) && (
+                speaker.facebook) && (
                 <p className="text-white text-2xl mt-4 font-bold">
                   Social Media
                 </p>
               )}
               <div className="space-x-4 w-[160px] h-[160px] mt-4 gap-x-6 text-white text-xl">
+              {speaker.linkedin && (
+                  <a
+                    className="opacity-50 hover:opacity-100"
+                    href={`https://www.linkedin.com/in/${speaker.linkedin}`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <FontAwesomeIcon icon={faLinkedinIn} />
+                  </a>
+                )}
                 {speaker.github && (
                   <a
                     className="opacity-50 hover:opacity-100"
@@ -83,14 +97,14 @@ export default function Speaker() {
                     <FontAwesomeIcon icon={faGithubAlt} />
                   </a>
                 )}
-                {speaker.facebook && (
+                {speaker.twitter && (
                   <a
                     className="opacity-50 hover:opacity-100"
-                    href={`https://www.facebook.com/${speaker.facebook}`}
+                    href={`https://twitter.com/${speaker.twitter}`}
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <FontAwesomeIcon icon={faFacebook} />
+                    <FontAwesomeIcon icon={faTwitter} />
                   </a>
                 )}
                 {speaker.instagram && (
@@ -103,24 +117,14 @@ export default function Speaker() {
                     <FontAwesomeIcon icon={faInstagram} />
                   </a>
                 )}
-                {speaker.linkedin && (
+                {speaker.facebook && (
                   <a
                     className="opacity-50 hover:opacity-100"
-                    href={`https://www.linkedin.com/in/${speaker.linkedin}`}
+                    href={`https://www.facebook.com/${speaker.facebook}`}
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <FontAwesomeIcon icon={faLinkedinIn} />
-                  </a>
-                )}
-                {speaker.twitter && (
-                  <a
-                    className="opacity-50 hover:opacity-100"
-                    href={`https://twitter.com/${speaker.twitter}`}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <FontAwesomeIcon icon={faTwitter} />
+                    <FontAwesomeIcon icon={faFacebook} />
                   </a>
                 )}
               </div>

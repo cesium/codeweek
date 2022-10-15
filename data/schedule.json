@@ -59,8 +59,8 @@
     "date": "19 Oct",
     "activities": [
       {
-        "title": "[Talk] Maths applied to computing",
-        "description": "Have you ever thought that programming is a science? In this talk, the professor and researcher JNO will talk about how maths can be applied to computing and its importance in the area.",
+        "title": "[Talk] Math applied to computing",
+        "description": "Have you ever thought that programming is a science? In this talk, the professor and researcher JNO will talk about how math can be applied to computing and its importance in the area.",
         "start": "16:00",
         "end": "17:00",
         "speakers": [
@@ -97,10 +97,32 @@
         "emoji": "🐚"
       },
       {
-        "title": "[Round Table] How would my life be in the future?",
+        "title": "[Round Table] What comes after?",
         "description": "Have you ever wonder how would your life be in the future? That's crazy, right? We bring some people to tell you about their lives after graduating in Software Engineer here @ University of Minho.",
         "start": "18:30",
         "end": "19:30",
+        "speakers": [
+          {
+            "name": "Daniel Tinoco",
+            "role": "Software Engineer @ Remote",
+            "photo": "unknown.jpg"
+          },
+          {
+            "name": "Nelson Estevão",
+            "role": "Software Engineer @ Marmelasoft",
+            "photo": "nelsonestevao.jpeg"
+          },
+          {
+            "name": "Martinho Aragão",
+            "role": "Chief Product Officer @ Utrust",
+            "photo": "martinhoaragao.jpg"
+          },
+          {
+            "name": "Francisco Neves",
+            "role": "Team Leader @ Nutrium",
+            "photo": "francisconeves.jpg"
+          }
+        ],
         "location": "Building 1, A1",
         "emoji": "🔮"
       }
