@@ -1,6 +1,7 @@
 import Head from "next/head";
 
 import Navbar from "/components/Navbar";
+import Faq from "/components/Faq";
 
 import faqs from "/data/faqs.json";
 
@@ -23,16 +24,8 @@ export default function FAQs() {
         </div>
 
         <div className="px-10 grid gap-4 mb-4">
-          {faqs.map((faq) => (
-            <details
-              className="py-6 space-y-4 cursor-pointer relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple"
-              key={faq}
-            >
-              <summary className="text-white font-semibold mx-4">
-                {faq.question}
-              </summary>
-              <p className="text-white mx-4">{faq.answer}</p>
-            </details>
+          {faqs.map((faq, index) => (
+            <Faq key={index} faq={faq} />
           ))}
         </div>
       </main>
