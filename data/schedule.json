@@ -7,7 +7,7 @@
         "description": "This time slot will be reserved to every student that wants to study and receive tutoring!",
         "start": "16:00",
         "end": "18:00",
-        "location": "TBD",
+        "location": "Building 7, R0.07",
         "emoji": "📚"
       },
       {
@@ -78,7 +78,7 @@
         "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
         "start": "17:00",
         "end": "17:30",
-        "location": "TBD",
+        "location": "Building 1, A1",
         "emoji": "☕"
       },
       {
@@ -159,7 +159,7 @@
         "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
         "start": "17:00",
         "end": "17:30",
-        "location": "TBD",
+        "location": "Building 7, A1",
         "emoji": "☕"
       },
       {
@@ -209,7 +209,7 @@
             "photo": "ioannisnezis.jpg"
           }
         ],
-        "location": "TBD",
+        "location": "Toastie - R. Nova de Santa Cruz, 4710-416 Braga",
         "emoji": "🍻"
       }
     ]
