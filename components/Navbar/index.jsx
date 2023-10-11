@@ -10,7 +10,7 @@ const navigation = [
   { name: "Speakers", slug: "/speakers" },
   { name: "Team", slug: "/team" },
   { name: "FAQs", slug: "/faqs" },
-  { name: "Last Edition", slug: "https://2019.codeweek.cesium.di.uminho.pt/" },
+  { name: "Last Edition", slug: "https://2022.codeweek.cesium.di.uminho.pt/" },
 ];
 
 function classNames(...classes) {
@@ -44,7 +44,7 @@ export default function Navbar({ current_page, children }) {
                     href={item.slug}
                     className={classNames(
                       current_page == item.name
-                        ? "border-purple text-white"
+                        ? "border-primary text-white"
                         : "border-transparent text-white text-opacity-50 hover:text-opacity-100",
                       "whitespace-nowrap py-7 px-1 border-b text-sm font-bold"
                     )}

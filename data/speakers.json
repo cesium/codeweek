@@ -1,108 +1,55 @@
 [
   {
-    "name": "Daniel Pereira",
-    "bio": "Programming enthusiast, especially when using Vim, who started his coding adventure in high school. Loves Python and Elixir. If you want to find him, just look for a guy with a cap in CeSIUM.",
-    "role": "Pedagogical Department @ CeSIUM",
-    "linkedin": "daniel-pereira45",
-    "github": "danielsp45",
-    "twitter": "danielsp_45",
-    "instagram": "danielsp_45",
-    "photo": "danielpereira.jpg"
-  },
-  {
-    "name": "Daniel Tinoco",
-    "role": "Software Engineer @ Remote",
-    "github": "0urobor0s",
-    "photo": "danieltinoco.jpg"
-  },
-  {
-    "name": "Dário Guimarães",
+    "name": "Abhimanyu Aryan",
+    "bio": "",
     "role": "Student @ University of Minho",
-    "linkedin": "darguima",
-    "github": "darguima",
-    "photo": "darioguimaraes.jpg"
+    "linkedin": "abhimanyuaryan",
+    "github": "abhimanyuaryan",
+    "twitter": "theabhimanyu",
+    "photo": "unknown.jpg"
+  },
+  {
+    "name": "Carlos",
+    "bio": "",
+    "role": "Student @ University of Minho",
+    "photo": "unknown.jpg"
   },
   {
     "name": "David Machado",
-    "bio": "Full-stack developer, started his coding journey at sixteen. As a vocational highschool graduation project he built a CSS framework. Currently studying Computer Science @ University of Minho.",
-    "role": "President @ NECC",
-    "github": "quantik-git",
-    "instagram": "quantik.insta",
-    "photo": "davidmachado.jpeg"
+    "bio": "Full-stack developer, started his coding journey at sixteen. As a vocational highschool graduation project he built a CSS framework. Graduated in Computer Science, currently taking his Masters Degree in Software Engineering @ University of Minho.",
+    "role": "Student @ University of Minho",
+    "linkedin": "david-machado-b8835b235",
+    "photo": "davidmachado.jpg"
   },
   {
-    "name": "Filipe Felício",
-    "bio": "Started programming five years ago. Used to spend all day writing code in CeSIUM, still do from time to time. Elixir enthusiast, working @ Marmelasoft. Proud owner of a |> tattoo.",
-    "role": "Software Engineer @ Marmelasoft",
-    "linkedin": "feliciofilipe",
-    "github": "feliciofilipe",
-    "twitter": "filipejfelicio",
-    "photo": "filipefelicio.png"
+    "name": "Humberto Gomes",
+    "bio": "",
+    "role": "Student @ University of Minho",
+    "github": "voidbert",
+    "photo": "unknown.jpg"
   },
   {
-    "name": "Francisco Neves",
-    "role": "Team Leader @ Nutrium",
-    "linkedin": "fntneves",
-    "github": "fntneves",
-    "photo": "francisconeves.jpg"
-  },
-  {
-    "name": "Henrique Pereira",
-    "bio": "Admires everything that respects its user's freedom - that's why his Emacs journey started. Turn libre software more approachable to everyone is one of his purposes. Free as in free speech not as in free beer!",
-    "role": "Pedagogical Department @ CeSIUM",
-    "github": "hgp22",
-    "photo": "henriquepereira.jpg"
-  },
-  {
-    "name": "Ioannis Nezis",
-    "bio": "Kubernetes, WebAssembly, Serverless, Cloud computing and Elixir - things he says that doesn't know shit about. He has his tippy toes in full stack development with Django and is trying to get into DevOps stuff. Procrastination enthusiast, working @ nothing important.",
-    "role": "Erasmus Student @ University of Minho",
-    "github": "ioannisnezis",
-    "photo": "ioannisnezis.jpg"
-  },
-  {
-    "name": "José Nuno Oliveira",
-    "bio": "José Nuno Oliveira, mostly known as JNO, is a professor and researcher at University of Minho. His research aims at improving scientific standards in software design through formal methods and calculational techniques. He does this with passion and firmly believe this will make computing better in the future.",
+    "name": "Pedro Patrício",
+    "bio": "Pedro Patrício is a professor and researcher at University of Minho from the Mathematics Department. His fields of interest are matrix theory, mostly generalized inverses but also connections to partial orders and operator theory. Other interests include cryptography, post-quantum cryptography, algebraic coding theory, having supervised various BSc/MSc projects on the topic.",
     "role": "Professor and researcher @ University of Minho",
-    "github": "JoseNunoOliveira",
-    "photo": "jno.png"
+    "linkedin": "pedro-patricio-bbb740133",
+    "photo": "pedropatricio.jpg"
   },
   {
-    "name": "Matilde Bravo",
-    "bio": "Has a strong passion for everything Linux-related. Spends most of her time on the command line and doesn't like GUI's very much. If not on the computer, she's probably singing and playing with TMUM.",
-    "role": "Open Source Department @ CeSIUM",
-    "linkedin": "matilde-bravo",
-    "github": "matildeopbravo",
-    "instagram": "matildebravo3",
-    "photo": "matildebravo.png"
-  },
-  {
-    "name": "Martinho Aragão",
-    "role": "Chief Product Officer @ Utrust",
-    "linkedin": "martinhoaragao",
-    "github": "martinhoaragao",
-    "photo": "martinhoaragao.jpg"
-  },
-  {
-    "name": "Nelson Estevão",
-    "role": "Software Engineer @ Marmelasoft",
-    "linkedin": "nelsonmestevao",
-    "github": "nelsonmestevao",
-    "photo": "nelsonestevao.jpeg"
-  },
-  {
-    "name": "Rui Lopes",
-    "bio": "Started programming four years ago and since then never stopped. Loves Python and is starting to love Elixir too. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
-    "role": "Open Source Department @ CeSIUM",
-    "linkedin": "rui-lopes-dev",
-    "github": "RuiL1904",
-    "photo": "ruilopes.png"
+    "name": "Pedro Pereira",
+    "bio": "Software Engineering student at the University of Minho with a passion for volunteering, team organization, coding, and external relations. He has developed skills in programming, project management, as well as external relationship building. Pedro has recently become the Champion at CoderDojo Braga and the president of the General Assembly at CeSIUM. He's seeking opportunities to apply his skills to challenging and inspiring projects, while continuing to grow as a professional and as an individual.",
+    "role": "President of the General Assembly @ CeSIUM",
+    "linkedin": "pedro-pereira-280989262",
+    "github": "pedrofp4444",
+    "instagram": "pedro_.fp",
+    "photo": "pedropereira.jpg"
   },
   {
     "name": "Rui Oliveira",
-    "bio": "Started programming at 13 years old. Whilst in high school earned the chance to showcase his talents at several domestic and international programming contests. An active contributor and core team member to CeSIUM Open Source plataforms.",
-    "role": "Open Source Department @ CeSIUM",
+    "bio": "Started programming at 13 years old. Whilst in high school earned the chance to showcase his talents at several domestic and international programming contests. He is currently a researcher at HASLab/INESC TEC and the treasurer of CeSIUM, where he also helps develop and maintain a variety of repositories.",
+    "role": "Treasurer @ CeSIUM",
+    "linkedin": "rui-oliveira-031328258",
     "github": "ruioliveira02",
-    "photo": "ruioliveira.jpg"
+    "photo": "ruioliveira.png"
   }
 ]

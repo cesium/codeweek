@@ -8,7 +8,7 @@ export default function PersonCard({ person, isSpeakers }) {
   function RenderOverlayOrganization() {
     if (!isSpeakers) {
       return (
-        <div className="hidden group-hover:block absolute top-0 left-0 right-0 z-40 bg-gradient-to-b from-purple p-2">
+        <div className="hidden group-hover:block absolute top-0 left-0 right-0 z-40 bg-gradient-to-b from-primary p-2">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             className="w-12 sm:w-20"
@@ -21,7 +21,7 @@ export default function PersonCard({ person, isSpeakers }) {
   }
   return (
     <div className="h-full">
-      <div className="h-full space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-purple overflow-hidden">
+      <div className="h-full space-y-4 cursor-pointer group relative rounded-lg border border-gray-300 bg-gray1 border-gray2 shadow-sm hover:border-primary overflow-hidden">
         <div>
           <RenderOverlayOrganization />
 
