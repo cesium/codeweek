@@ -27,11 +27,11 @@ export default function Navbar({ current_page, children }) {
               <div className="flex row ml-6 cursor-pointer opacity-70 hover:opacity-100">
                 {/* eslint-disable @next/next/no-img-element */}
                 <img
-                  className="w-[60px] h-[60px] pt-2"
+                  className="w-[40px] h-[40px] mr-2 self-center"
                   src="/images/logos/codeweek-icon-white.svg"
                   alt=""
                 />
-                <a className="text-white text-md font-semibold sm:text-lg sm:font-bold px-1 py-5">
+                <a className="text-white text-md font-ocr uppercase font-semibold sm:text-lg sm:font-bold px-1 py-5">
                   Code Week
                 </a>
               </div>
@@ -44,9 +44,9 @@ export default function Navbar({ current_page, children }) {
                     href={item.slug}
                     className={classNames(
                       current_page == item.name
-                        ? "border-purple text-white"
+                        ? "border-primary text-white"
                         : "border-transparent text-white text-opacity-50 hover:text-opacity-100",
-                      "whitespace-nowrap py-7 px-1 border-b text-sm font-bold"
+                      "whitespace-nowrap py-7 px-1 border-b text-base font-bold font-ocr"
                     )}
                   >
                     {item.name}
@@ -108,7 +108,7 @@ export default function Navbar({ current_page, children }) {
                       current_page == item.name
                         ? " "
                         : "  text-opacity-50 hover:text-opacity-100",
-                      "block whitespace-nowrap py-4 px-2 text-center text-xl font-bold uppercase text-white"
+                      "block whitespace-nowrap py-4 px-2 font-ocr text-center text-xl font-bold uppercase text-white"
                     )}
                   >
                     {item.name}

@@ -17,7 +17,9 @@ export default function FAQs() {
 
       <main className="flex w-full flex-1 flex-col bg-black my-auto">
         <div className="px-10 mb-10">
-          <p className="text-white text-[40px] mt-14 font-extrabold">FAQs</p>
+          <p className="text-white text-[40px] mt-14 font-extrabold font-ocr uppercase">
+            FAQs
+          </p>
           <p className="text-gray3 text-md mt-4">
             Have all your questions answered.
           </p>
