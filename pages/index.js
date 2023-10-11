@@ -24,11 +24,11 @@ function Home() {
               EU Code Week 2023 @ University of Minho
             </p>
             <div className="grid grid-cols-3 p-6">
-              <p className="text-primary text-lg sm:text-2xl self-center">
+              <p className="text-purple text-lg sm:text-2xl self-center">
                 October 16 - 19, 2023
               </p>
               <p className="flex text-white text-xl border-r-2 h-[70px] self-center justify-self-center" />
-              <p className="text-primary text-lg sm:text-2xl self-center p-4">
+              <p className="text-purple text-lg sm:text-2xl self-center p-4">
                 Building 7, Gualtar Campus
               </p>
             </div>

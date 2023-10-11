@@ -31,7 +31,7 @@ export default function Schedule() {
         {schedule.map((day, i0) => (
           <div className="sm:flex border-t border-gray2 sm:py-4" key={day}>
             <div className="px-10 py-4 sm:py-0 sm:p-10 flex-shrink-0 sm:mr-4">
-              <p className="text-primary text-4xl font-extrabold">{day.date}</p>
+              <p className="text-purple text-4xl font-extrabold">{day.date}</p>
             </div>
             <div className="px-10 overflow-x-auto flex gap-4 pb-4 sm:pb-0 sm:py-4">
               {day.activities.map((activity, i1) => (
@@ -41,7 +41,7 @@ export default function Schedule() {
                   </div>
                   <>
                     <Link href={`/activity/${i1}?day_id=${i0}`}>
-                      <div className="cursor-pointer group w-80 mt-2 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-primary">
+                      <div className="cursor-pointer group w-80 mt-2 relative rounded-lg border border-gray-300 bg-gray1 border-gray2 px-6 py-5 shadow-sm hover:border-purple">
                         <div className="flex justify-between items-center">
                           <p className="text-white text-xl font-bold">
                             {activity.title}

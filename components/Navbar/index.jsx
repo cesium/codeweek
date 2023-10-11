@@ -44,7 +44,7 @@ export default function Navbar({ current_page, children }) {
                     href={item.slug}
                     className={classNames(
                       current_page == item.name
-                        ? "border-primary text-white"
+                        ? "border-purple text-white"
                         : "border-transparent text-white text-opacity-50 hover:text-opacity-100",
                       "whitespace-nowrap py-7 px-1 border-b text-sm font-bold"
                     )}
