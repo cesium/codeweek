@@ -1,18 +1,20 @@
 [
   {
     "name": "Abhimanyu Aryan",
-    "bio": "",
+    "bio": "Started his career in AR/VR, worked for the Indian AirForce as a Machine Learning Engineer. Fullstack Julia Developer. Core-contributor Genie Framework/Cloud. Co-founder Jolin Cloud.",
     "role": "Student @ University of Minho",
     "linkedin": "abhimanyuaryan",
     "github": "abhimanyuaryan",
     "twitter": "theabhimanyu",
-    "photo": "unknown.jpg"
+    "photo": "abhimanyuaryan.png"
   },
   {
-    "name": "Carlos",
-    "bio": "",
+    "name": "Carlos Ribeiro",
+    "bio": "Currently finishing his Software Engineering bachelor's degree at University of Minho, he has vast experience in python, fullstack development and UI/UX. Musical artist on the side and interested in game dev.",
     "role": "Student @ University of Minho",
-    "photo": "unknown.jpg"
+    "photo": "carlosribeiro.jpg",
+    "github": "Carlos-oficial",
+    "instagram": "cralos.af"
   },
   {
     "name": "David Machado",
@@ -23,10 +25,10 @@
   },
   {
     "name": "Humberto Gomes",
-    "bio": "",
+    "bio": "Open source fan and low-level programming enthusiast.",
     "role": "Student @ University of Minho",
     "github": "voidbert",
-    "photo": "unknown.jpg"
+    "photo": "humbertogomes.jpg"
   },
   {
     "name": "Pedro Patrício",

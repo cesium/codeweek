@@ -52,14 +52,6 @@
         ],
         "location": "Building 7, A1",
         "emoji": "🐧"
-      },
-      {
-        "title": "Chess Tournament",
-        "description": "This will be a remote chess tournament, so that everyone interested can join! Let's take a break from all the programming nonsense and focus on some real thinking.",
-        "start": "21:30",
-        "end": "23:30",
-        "location": "Remote",
-        "emoji": "♟️"
       }
     ]
   },
@@ -111,6 +103,14 @@
         "emoji": "🤔"
       },
       {
+        "title": "Chess Tournament",
+        "description": "Let's take a break from all the programming nonsense and focus on some real thinking!",
+        "start": "18:00",
+        "end": "20:00",
+        "location": "Building 7",
+        "emoji": "♟️"
+      },
+      {
         "title": "Geek Night",
         "description": "This is the place to relax and listen to the geekiest themes around the block! It's a great opportunity to learn new technologies, debate about incredible things and have fun.",
         "start": "21:30",
@@ -119,17 +119,17 @@
           {
             "name": "Abhimanyu Aryan",
             "role": "Student @ University of Minho",
-            "photo": "unknown.jpg"
+            "photo": "abhimanyuaryan.png"
           },
           {
-            "name": "Carlos",
+            "name": "Carlos Ribeiro",
             "role": "Student @ University of Minho",
-            "photo": "unknown.jpg"
+            "photo": "carlosribeiro.jpg"
           },
           {
             "name": "Humberto Gomes",
             "role": "Student @ University of Minho",
-            "photo": "unknown.jpg"
+            "photo": "humbertogomes.jpg"
           },
           {
             "name": "Pedro Pereira",

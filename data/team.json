@@ -5,6 +5,11 @@
     "organization": "necc"
   },
   {
+    "name": "Bernardo Moniz",
+    "photo": "bernardomoniz.png",
+    "organization": "necc"
+  },
+  {
     "name": "Carlos Fernandes",
     "photo": "carlosfernandes.jpg",
     "organization": "necc"
@@ -45,18 +50,13 @@
     "organization": "cesium"
   },
   {
-    "name": "Pedro Pereira",
-    "photo": "pedropereira.jpg",
+    "name": "Pedro Sousa",
+    "photo": "pedrosousa.jpg",
     "organization": "cesium"
   },
   {
     "name": "Rita Camacho",
     "photo": "ritacamacho.jpg",
-    "organization": "cesium"
-  },
-  {
-    "name": "Rui Lopes",
-    "photo": "ruilopes.jpg",
     "organization": "cesium"
   },
   {
