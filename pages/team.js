@@ -15,7 +15,9 @@ export default function Team() {
       <Navbar current_page="Team">
         <main className="flex w-full flex-1 flex-col bg-black my-auto">
           <div className="px-10 mb-10">
-            <p className="text-white text-[40px] mt-14 font-extrabold">Team</p>
+            <p className="text-white text-[40px] mt-14 font-extrabold font-ocr uppercase">
+              Team
+            </p>
             <p className="text-gray3 text-md mt-4">
               CeSIUM and NECC joined forces and became almost as strong as a
               semicolon in C. Look at us: hard working people, code enthusiasts,

@@ -12,7 +12,7 @@ export default function Faq({ faq }) {
   return (
     <div
       onClick={toggleFaq}
-      className="cursor-pointer rounded-lg bg-gray1 border border-gray2 shadow-sm hover:border-purple px-4 py-6"
+      className="cursor-pointer rounded-lg bg-gray1 border border-gray2 shadow-sm hover:border-primary transition duration-200 ease-in-out px-4 py-6"
     >
       <div>
         {isOpen ? (
