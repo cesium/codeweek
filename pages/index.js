@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
       <Head>
-        <title>Code Week 2022</title>
+        <title>Code Week 2023</title>
         <link rel="icon" href="/cw-favicon.ico" />
       </Head>
 
