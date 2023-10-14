@@ -63,6 +63,13 @@
         "description": "Every programmer is aware that the most powerful tool we have at our disposal is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
         "start": "15:00",
         "end": "16:00",
+        "speakers": [
+          {
+            "name": "Rui Lopes",
+            "role": "Student @ University of Minho",
+            "photo": "ruilopes.jpg"
+          }
+        ],
         "location": "Building 7, A1",
         "emoji": "🐚"
       },
