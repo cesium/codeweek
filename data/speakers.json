@@ -47,6 +47,16 @@
     "photo": "pedropereira.jpg"
   },
   {
+    "name": "Rui Lopes",
+    "bio": "Started programming five years ago and since then never stopped. Loves Elixir and everything related to concurrent programming. Joined CeSIUM to develop a lot more skills and meet new people. Aiming to install Arch Linux for the 15th time last week.",
+    "role": "Student @ University of Minho",
+    "linkedin": "ruilopesm",
+    "github": "ruilopesm",
+    "instagram": "ruilopesm19",
+    "twitter": "ruilopesm19",
+    "photo": "ruilopes.jpg"
+  },
+  {
     "name": "Rui Oliveira",
     "bio": "Started programming at 13 years old. Whilst in high school earned the chance to showcase his talents at several domestic and international programming contests. He is currently a researcher at HASLab/INESC TEC and the treasurer of CeSIUM, where he also helps develop and maintain a variety of repositories.",
     "role": "Student @ University of Minho",
