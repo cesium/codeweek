@@ -11,7 +11,6 @@ export default function FAQs() {
       <Head>
         <title>FAQs</title>
         <link rel="icon" href="/cw-favicon.ico" />
-        <body className="bg-black" />
       </Head>
 
       <Navbar current_page="FAQs" />

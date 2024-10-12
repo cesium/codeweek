@@ -12,7 +12,6 @@ export default function Schedule() {
       <Head>
         <title>Schedule</title>
         <link rel="icon" href="/cw-favicon.ico" />
-        <body className="bg-black" />
       </Head>
 
       <Navbar current_page="Schedule" />
@@ -30,7 +29,7 @@ export default function Schedule() {
         </div>
 
         {schedule.map((day, i0) => (
-          <div className="sm:flex border-t border-gray2 sm:py-4" key={day}>
+          <div className="sm:flex border-t border-gray2 sm:py-4" key={i0}>
             <div className="px-10 py-4 sm:py-0 sm:p-10 flex-shrink-0">
               <p className="text-primary text-4xl font-extrabold font-ocr uppercase">
                 {day.date}

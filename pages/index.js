@@ -9,7 +9,6 @@ function Home() {
       <Head>
         <title>Code Week 2024</title>
         <link rel="icon" href="/cw-favicon.ico" />
-        <body className="bg-black" />
       </Head>
 
       <Navbar>
