@@ -6,3 +6,7 @@
   font-family: "OCR A Extended";
   src: url("../public/fonts/OCRAEXT.TTF") format("truetype");
 }
+
+body {
+  background-color: black;
+}

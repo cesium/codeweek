@@ -61,6 +61,18 @@ export default function Activity() {
             <p className="text-gray3 text-md mt-1">{activity.location}</p>
             <p className="text-white text-2xl mt-4 font-bold">Description</p>
             <p className="text-gray3 text-md mt-1">{activity.description}</p>
+            {activity.registration_url && (
+              <div className="mt-7">
+                <a
+                  href={activity.registration_url}
+                  className="bg-gray1 text-white text-xl sm:text-2xl font-semibold p-4 rounded-lg transition duration-200 ease-in-out transform hover:border-primary border border-gray2 focus:border-primary focus:outline-none"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Register here
+                </a>
+              </div>
+            )}
             <p className="text-white text-2xl mt-4 font-bold">
               {activity.speakers && "Speakers"}
             </p>
