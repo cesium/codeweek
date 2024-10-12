@@ -7,10 +7,8 @@ import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 
 const navigation = [
   { name: "Schedule", slug: "/schedule" },
-  { name: "Speakers", slug: "/speakers" },
-  { name: "Team", slug: "/team" },
   { name: "FAQs", slug: "/faqs" },
-  { name: "Last Edition", slug: "https://2022.codeweek.cesium.di.uminho.pt/" },
+  { name: "Last Edition", slug: "https://2023.codeweek.cesium.di.uminho.pt/" },
 ];
 
 function classNames(...classes) {

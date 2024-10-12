@@ -33,14 +33,14 @@ export default function Speaker() {
     <div className="flex min-h-screen flex-col items-center justify-center">
       <Navbar current_page="Speakers" />
 
-      <main className="flex w-full flex-1 flex-col bg-black my-auto">
-        <Link href="/speakers">
-          <div className="cursor-pointer mt-20 px-20 text-white text-lg font-bold opacity-70 hover:opacity-100">
-            {"< Back to Speakers"}
+      <main className="flex w-full flex-1 flex-col bg-black my-auto px-4 sm:px-8 md:px-20">
+        <Link href="/schedule">
+          <div className="cursor-pointer mt-8 sm:mt-20 text-white text-md  sm:font-bold opacity-70 hover:opacity-100">
+            {"< Back to Schedule"}
           </div>
         </Link>
 
-        <div className="mt-10 px-20 flex flex-col xl:flex-row xl:items-center">
+        <div className="mt-10 flex flex-col xl:flex-row xl:items-center">
           <div className="flex-none">
             <Image
               src={`/images/speakers/${speaker.photo}`}

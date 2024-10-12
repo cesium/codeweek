@@ -22,14 +22,14 @@ export default function Schedule() {
             Schedule
           </p>
           <p className="text-gray3 text-md mt-4">
-            4 amazing days bringing code to the world. We don&apos;t want to
+            3 amazing days bringing code to the world. We don&apos;t want to
             risk anyone getting a segmentation fault, so refresh your memory
             with this:
           </p>
         </div>
 
         {schedule.map((day, i0) => (
-          <div className="sm:flex border-t border-gray2 sm:py-4" key={day}>
+          <div className="sm:flex border-t border-gray2 sm:py-4" key={i0}>
             <div className="px-10 py-4 sm:py-0 sm:p-10 flex-shrink-0">
               <p className="text-primary text-4xl font-extrabold font-ocr uppercase">
                 {day.date}
