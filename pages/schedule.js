@@ -22,7 +22,7 @@ export default function Schedule() {
             Schedule
           </p>
           <p className="text-gray3 text-md mt-4">
-            4 amazing days bringing code to the world. We don&apos;t want to
+            3 amazing days bringing code to the world. We don&apos;t want to
             risk anyone getting a segmentation fault, so refresh your memory
             with this:
           </p>

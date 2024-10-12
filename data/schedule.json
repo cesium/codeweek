@@ -25,8 +25,8 @@
       {
         "title": "[Workshop] ShowOff Elixir",
         "description": "Join us for an exciting workshop where we dive into the world of Elixir, a dynamic, functional language designed for building scalable and maintainable applications. Perfect for both beginners and experienced programmers looking to expand their skill set.",
-        "start": "15:00",
-        "end": "16:00",
+        "start": "16:00",
+        "end": "17:00",
         "speakers": [
           {
             "name": "Rui Lopes",
@@ -34,7 +34,7 @@
             "photo": "ruilopes.jpg"
           }
         ],
-        "location": "Building 7, A1",
+        "location": "Building 7, A2",
         "emoji": "🧑‍💻"
       }
     ]
@@ -45,9 +45,9 @@
       {
         "title": "Board Games",
         "description": "Take a break from coding and join us for an evening of board games. Whether you're a strategic mastermind or just looking to have some fun, this event is perfect for unwinding and socializing with fellow students.",
-        "start": "18:00",
-        "end": "20:00",
-        "location": "Building 7, 1.10",
+        "start": "21:00",
+        "end": "23:30",
+        "location": "Drawstep",
         "emoji": "♟️"
       }
     ]
