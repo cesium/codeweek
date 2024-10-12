@@ -1,66 +1,30 @@
 [
   {
-    "date": "16 Oct",
+    "date": "15 Oct",
     "activities": [
-      {
-        "title": "[Talk] The Lost and Hidden Number",
-        "description": "Are you interested in cryptography? Then this talk is for you. Join us and discover interesting facts about cryptography and its applications to everyday problems using a simple approach that will spark your interest in this area.",
-        "start": "15:00",
-        "end": "16:00",
-        "speakers": [
-          {
-            "name": "Pedro Patrício",
-            "role": "Professor and researcher @ University of Minho",
-            "photo": "pedropatricio.jpg"
-          }
-        ],
-        "location": "Building 7, A1",
-        "emoji": "🔐"
-      },
-      {
-        "title": "Coffee Break",
-        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
-        "start": "16:00",
-        "end": "16:30",
-        "location": "Building 7",
-        "emoji": "☕"
-      },
       {
         "title": "PF Study Session",
         "description": "This time slot will be reserved to every student who wants to study and receive tutoring.",
-        "start": "16:30",
-        "end": "18:00",
-        "location": "Building 7, 0.05 & 0.11",
+        "start": "16:00",
+        "end": "17:00",
+        "speakers": [
+          {
+            "name": "Sofia Santos",
+            "role": "Student @ University of Minho",
+            "photo": "sofiasantos.jpg"
+          }
+        ],
+        "location": "Building 7, A2",
         "emoji": "📚"
       }
     ]
   },
   {
-    "date": "17 Oct",
+    "date": "16 Oct",
     "activities": [
       {
-        "title": "[Talk] Why Linux?",
-        "description": "\"Why Linux?\" is an engaging, interactive talk designed to demystify Linux for newcomers. Participants explore the benefits of this open-source operating system, discover its security advantages, and gain practical insights into its everyday use. This activity equips attendees with a fundamental understanding of why Linux is a compelling choice for both personal and professional computing needs.",
-        "start": "17:00",
-        "end": "18:00",
-        "speakers": [
-          {
-            "name": "David Machado",
-            "role": "Student @ University of Minho",
-            "photo": "davidmachado.jpg"
-          }
-        ],
-        "location": "Building 7, A1",
-        "emoji": "🐧"
-      }
-    ]
-  },
-  {
-    "date": "18 Oct",
-    "activities": [
-      {
-        "title": "[Workshop] Shell Basics",
-        "description": "Every programmer is aware that the most powerful tool we have at our disposal is the shell and its scripting tools. The main goal of this talk is to introduce the basics of shell to an unexperienced audience.",
+        "title": "[Workshop] ShowOff Elixir",
+        "description": "Join us for an exciting workshop where we dive into the world of Elixir, a dynamic, functional language designed for building scalable and maintainable applications. Perfect for both beginners and experienced programmers looking to expand their skill set.",
         "start": "15:00",
         "end": "16:00",
         "speakers": [
@@ -71,30 +35,7 @@
           }
         ],
         "location": "Building 7, A1",
-        "emoji": "🐚"
-      },
-      {
-        "title": "Coffee Break",
-        "description": "How about a little break? This will be a gathering moment for everyone @ CodeWeek, come and join us!",
-        "start": "16:00",
-        "end": "16:30",
-        "location": "Building 7",
-        "emoji": "☕"
-      },
-      {
-        "title": "[Workshop] Get good at Git",
-        "description": "This workshop offers a hands-on experience in Git, GitHub, and GitLab. Participants learn the fundamentals of version control, enabling collaborative software development. They gain proficiency in creating repositories, branching and merging. By the end, attendees are equipped with the skills to streamline their coding projects and contribute effectively to open-source communities.",
-        "start": "16:30",
-        "end": "17:00",
-        "speakers": [
-          {
-            "name": "Rui Oliveira",
-            "role": "Student @ University of Minho",
-            "photo": "ruioliveira.png"
-          }
-        ],
-        "location": "Building 7, A1",
-        "emoji": "😎"
+        "emoji": "🧑‍💻"
       }
     ]
   },
@@ -102,50 +43,12 @@
     "date": "19 Oct",
     "activities": [
       {
-        "title": "[Round Table] What comes next?",
-        "description": "Have you ever wondered how your life would be in the future? That's crazy, right? We bring some people to tell you about their lives after graduating in Software Engineering here @ University of Minho.",
-        "start": "16:00",
-        "end": "17:30",
-        "location": "Building 7, A1",
-        "emoji": "🤔"
-      },
-      {
-        "title": "Chess Tournament",
-        "description": "Let's take a break from all the programming nonsense and focus on some real thinking!",
+        "title": "Board Games",
+        "description": "Take a break from coding and join us for an evening of board games. Whether you're a strategic mastermind or just looking to have some fun, this event is perfect for unwinding and socializing with fellow students.",
         "start": "18:00",
         "end": "20:00",
         "location": "Building 7, 1.10",
         "emoji": "♟️"
-      },
-      {
-        "title": "Geek Night",
-        "description": "This is the place to relax and listen to the geekiest themes around the block! It's a great opportunity to learn new technologies, debate about incredible things and have fun.",
-        "start": "20:30",
-        "end": "22:30",
-        "speakers": [
-          {
-            "name": "Abhimanyu Aryan",
-            "role": "Student @ University of Minho",
-            "photo": "abhimanyuaryan.png"
-          },
-          {
-            "name": "Carlos Ribeiro",
-            "role": "Student @ University of Minho",
-            "photo": "carlosribeiro.jpg"
-          },
-          {
-            "name": "Humberto Gomes",
-            "role": "Student @ University of Minho",
-            "photo": "humbertogomes.jpg"
-          },
-          {
-            "name": "Pedro Pereira",
-            "role": "Student @ University of Minho",
-            "photo": "pedropereira.jpg"
-          }
-        ],
-        "location": "Building 7, A2",
-        "emoji": "🤓"
       }
     ]
   }

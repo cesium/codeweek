@@ -7,21 +7,22 @@ function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center">
       <Head>
-        <title>Code Week 2023</title>
+        <title>Code Week 2024</title>
         <link rel="icon" href="/cw-favicon.ico" />
+        <body className="bg-black" />
       </Head>
 
       <Navbar>
         <main className="flex w-full flex-1 flex-col items-center justify-center bg-black text-center my-auto ">
           <div className="md:max-w-[700px] px-4 select-none">
             <object
-              data="images/logos/codeweek-2023.svg"
+              data="images/logos/codeweek-2024.svg"
               className="w-full sm:mx-0 sm:w-[300px]"
-              alt="Code Week 2023"
+              alt="Code Week 2024"
             />
             <div>
               <p className="text-white uppercase font-ocr text-lg sm:text-2xl mt-4 text-left">
-                16 - 20 October
+                14 - 17 October
               </p>
               <p className="text-primary uppercase font-ocr text-lg sm:text-xl self-center text-left mt-2">
                 Building 7, <br /> Gualtar Campus

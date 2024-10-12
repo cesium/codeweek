@@ -12,6 +12,7 @@ export default function Schedule() {
       <Head>
         <title>Schedule</title>
         <link rel="icon" href="/cw-favicon.ico" />
+        <body className="bg-black" />
       </Head>
 
       <Navbar current_page="Schedule" />
